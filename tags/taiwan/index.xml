@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – Taiwan</title>
+    <link>https://stock-for-newbie.kejyun.com/tags/taiwan/</link>
+    <description>Recent content in Taiwan on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 14 Apr 2021 08:50:29 +0000</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 台灣</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/</link>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;券商&#34;&gt;券商&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fugle.tw/&#34;&gt;富果&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sinotrade.com.tw/&#34;&gt;永豐金證券&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aiinvest.sinotrade.com.tw/Index&#34;&gt;台股 - 豐存股&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aiinvest.sinotrade.com.tw/foreign&#34;&gt;美股 - 豐存股&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esunsec.com.tw/&#34;&gt;玉山證券&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stocksavings.esunsec.com.tw/&#34;&gt;股票e指存&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cathaysec.com.tw/&#34;&gt;國泰綜合證券&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
