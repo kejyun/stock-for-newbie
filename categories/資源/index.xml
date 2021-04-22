@@ -5,7 +5,7 @@
     <description>Recent content in 資源 on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 15 Apr 2021 08:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E8%B3%87%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
     <item>
       <title>Docs: 部落格</title>
       <link>https://stock-for-newbie.kejyun.com/docs/resource/blog/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
       <guid>https://stock-for-newbie.kejyun.com/docs/resource/blog/</guid>
       <description>
@@ -45,7 +45,7 @@
     <item>
       <title>Docs: 影音</title>
       <link>https://stock-for-newbie.kejyun.com/docs/resource/video/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
       <guid>https://stock-for-newbie.kejyun.com/docs/resource/video/</guid>
       <description>
@@ -74,7 +74,7 @@
     <item>
       <title>Docs: 社群</title>
       <link>https://stock-for-newbie.kejyun.com/docs/resource/social/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
       <guid>https://stock-for-newbie.kejyun.com/docs/resource/social/</guid>
       <description>
@@ -90,11 +90,28 @@
     </item>
     
     <item>
-      <title>Docs: 看盤軟體</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/app/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      <title>Docs: 書籍</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/resource/book/</link>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/app/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/docs/resource/book/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;推薦書單&#34;&gt;推薦書單&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.evernote.com/shard/s706/client/snv?noteGuid=a0556273-7a2b-9e6b-6d51-33e2c856e353&amp;amp;noteKey=94725ec975a01bbf3cedb6db1b378dec&amp;amp;sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs706%2Fsh%2Fa0556273-7a2b-9e6b-6d51-33e2c856e353%2F94725ec975a01bbf3cedb6db1b378dec&amp;amp;title=%25E8%2582%25A1%25E7%2599%258C%25E6%259B%25B8%25E5%2596%25AE%2528%25E5%25B0%2587%25E6%258C%2581%25E7%25BA%258C%25E6%259B%25B4%25E6%2596%25B0%25EF%25BC%258C%25E6%259C%2580%25E6%2596%25B0%25E7%25BD%25AE%25E9%25A0%2582%2529&#34;&gt;股癌書單&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 看盤軟體</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/</guid>
       <description>
         
         
@@ -115,17 +132,51 @@
     </item>
     
     <item>
-      <title>Docs: 書籍</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/book/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      <title>Docs: 富途牛牛</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/futunn/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/book/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/futunn/</guid>
       <description>
         
         
-        &lt;h2 id=&#34;推薦書單&#34;&gt;推薦書單&lt;/h2&gt;
+        &lt;p&gt;&lt;img src=&#34;./images/futunn-official-cover.png&#34; alt=&#34;富途牛牛&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;支援平台&#34;&gt;支援平台&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.evernote.com/shard/s706/client/snv?noteGuid=a0556273-7a2b-9e6b-6d51-33e2c856e353&amp;amp;noteKey=94725ec975a01bbf3cedb6db1b378dec&amp;amp;sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs706%2Fsh%2Fa0556273-7a2b-9e6b-6d51-33e2c856e353%2F94725ec975a01bbf3cedb6db1b378dec&amp;amp;title=%25E8%2582%25A1%25E7%2599%258C%25E6%259B%25B8%25E5%2596%25AE%2528%25E5%25B0%2587%25E6%258C%2581%25E7%25BA%258C%25E6%259B%25B4%25E6%2596%25B0%25EF%25BC%258C%25E6%259C%2580%25E6%2596%25B0%25E7%25BD%25AE%25E9%25A0%2582%2529&#34;&gt;股癌書單&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/iphone&#34;&gt;iPhone / iPad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/android&#34;&gt;Android / Tablet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/mac&#34;&gt;Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/windows&#34;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/OpenAPI&#34;&gt;OpenAPI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;語系&#34;&gt;語系&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;繁體中文&lt;/li&gt;
+&lt;li&gt;簡體中文&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/&#34;&gt;富途牛牛 - 港股 美股 A股報價&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/quote/FUTU:NASDAQ&#34;&gt;富途證券國際(香港)有限公司 (FUTU：NASDAQ) 股價與新聞 - Google 財經&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futuholdings.com/zh-hk/&#34;&gt;FUTU | Futu Holdings Limited 富途控股 | 領先的數字化金融科技集團&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/resource/api/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/resource/api/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;api-資源&#34;&gt;API 資源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/OpenAPI&#34;&gt;富途牛牛 FUTU Open API&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -134,7 +185,7 @@
     <item>
       <title>Docs: 官方</title>
       <link>https://stock-for-newbie.kejyun.com/docs/resource/official/</link>
-      <pubDate>Thu, 15 Apr 2021 08:50:29 +0000</pubDate>
+      <pubDate>Thu, 15 Apr 2021 08:50:29 +0800</pubDate>
       
       <guid>https://stock-for-newbie.kejyun.com/docs/resource/official/</guid>
       <description>
@@ -155,7 +206,7 @@
     <item>
       <title>Docs: 資源</title>
       <link>https://stock-for-newbie.kejyun.com/docs/resource/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0000</pubDate>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
       <guid>https://stock-for-newbie.kejyun.com/docs/resource/</guid>
       <description>
