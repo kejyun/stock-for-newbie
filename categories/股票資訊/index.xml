@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 股票資訊</title>
+    <link>https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A/</link>
+    <description>Recent content in 股票資訊 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 25 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 股票資訊</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</link>
+      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;股票基本資訊&#34;&gt;股票基本資訊&lt;/h2&gt;
+&lt;p&gt;在 Google 財經搜尋公司股票時，可以找到該公司股票股價相關資訊&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前次收盤價&lt;/li&gt;
+&lt;li&gt;單日股價範圍&lt;/li&gt;
+&lt;li&gt;一年股價範圍&lt;/li&gt;
+&lt;li&gt;總市值&lt;/li&gt;
+&lt;li&gt;本益比&lt;/li&gt;
+&lt;li&gt;股利收益率&lt;/li&gt;
+&lt;li&gt;CDP 環保分數&lt;/li&gt;
+&lt;li&gt;主要交易所&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-stock-info-1.png&#34; alt=&#34;Google Finance TSMC&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;財務表現&#34;&gt;財務表現&lt;/h2&gt;
+&lt;p&gt;在公司基本資訊下方可以看到這家公司的近期財務表現，可以用 &lt;code&gt;季度&lt;/code&gt;、&lt;code&gt;年度&lt;/code&gt; 的方式去觀察營收的狀況&lt;/p&gt;
+&lt;p&gt;可以看到有下列的指標資訊，並計算這些指標資訊的年增率&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;收益&lt;/li&gt;
+&lt;li&gt;淨利&lt;/li&gt;
+&lt;li&gt;稀釋每股盈餘&lt;/li&gt;
+&lt;li&gt;淨利潤率&lt;/li&gt;
+&lt;li&gt;營業收入&lt;/li&gt;
+&lt;li&gt;現金變動淨額&lt;/li&gt;
+&lt;li&gt;庫存現金&lt;/li&gt;
+&lt;li&gt;營業成本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以 &lt;code&gt;季度&lt;/code&gt; 方式觀看財務表現如下圖所示&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-stock-info-2.png&#34; alt=&#34;Google Finance TSMC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以 &lt;code&gt;年度&lt;/code&gt; 方式觀看財務表現如下圖所示&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-stock-info-3.png&#34; alt=&#34;Google Finance TSMC&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/quote/2330:TPE&#34;&gt;台灣積體電路製造 (2330：TPE) 股價與新聞 - Google 財經&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

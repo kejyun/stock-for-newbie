@@ -5,7 +5,7 @@
     <description>Recent content in 看盤軟體 on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E7%9C%8B%E7%9B%A4%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,101 @@
         
       
     
+    
+    <item>
+      <title>Docs: 觀察清單</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/watch-list/</link>
+      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/watch-list/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;加入觀察清單&#34;&gt;加入觀察清單&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;必須要登入 Google 帳號&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在使用 Google 搜尋相關上市公司股票相關的資訊時，最上方會出現這家公司的相關股價，就像下方我們搜尋「&lt;code&gt;台積電股價&lt;/code&gt;」時，就可以看到台積電股價相關資訊，可以點選最上方的「&lt;code&gt;+ 追蹤&lt;/code&gt;」的按鈕，就可以將這家公司加入您的股市觀察清單中&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-search-tsmc-stock.png&#34; alt=&#34;Google Search TSMC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;加入的股票可以在「&lt;a href=&#34;https://www.google.com/finance/portfolio/watchlist&#34;&gt;Google 財經 - 觀察清單&lt;/a&gt;」看到，你也可以在這裡看到您觀察的公司近期的相關新聞，可以協助你做投資的判斷&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-search-tsmc-stock-watch-list.png&#34; alt=&#34;Google Finance watch list&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;自訂觀察清單&#34;&gt;自訂觀察清單&lt;/h2&gt;
+&lt;p&gt;如果你有自己想分類的股票觀察清單，你也可以自訂自己的觀察清單&lt;/p&gt;
+&lt;p&gt;在觀察清單頁上方點選「&lt;code&gt;+ 新增觀察清單&lt;/code&gt;」就可以建立自己的觀察清單，下方建立了一個 &lt;code&gt;US ETF&lt;/code&gt; 的觀察清單&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-custom-watch-list-1.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;p&gt;建立自訂觀察清單完成之後，可以點選「&lt;code&gt;+ 新增投資項目&lt;/code&gt;」新增你想要觀察的股票清單，因為我想要觀察美股的 ETF，所以我搜尋了 &lt;code&gt;SPY&lt;/code&gt; 將這個 ETF 加入我的觀察清單&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;搜尋的關鍵字也可以輸入文字搜尋，不一定要知道股票代號，Google 會幫你找相關關鍵字的公司股票，如果你知道股票代號的話直接輸入搜尋則是會比較快&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-custom-watch-list-2.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;p&gt;新增完成後就可以看到 &lt;code&gt;SPY&lt;/code&gt; 的股票在我的 &lt;code&gt;US ETF&lt;/code&gt; 自訂觀察清單中，下方也有這個觀察清單相關的新聞&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-custom-watch-list-3.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;觀察清單排序&#34;&gt;觀察清單排序&lt;/h2&gt;
+&lt;p&gt;在股票加入觀察清單後，你就可以一次看到你要觀察的股票相關股價資訊&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-watch-list-compare-1.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在上方可以點選排序方式，可以依照 &lt;code&gt;價格變化幅度（上面顯示是「變更」的字樣）&lt;/code&gt;、&lt;code&gt;價格變化百分比（上面顯示是「百分比變化」字樣）&lt;/code&gt;，並比較目前股票現在的漲跌幅狀況&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-watch-list-compare-2.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以下是依照 &lt;code&gt;價格變化百分比（上面顯示是「百分比變化」字樣）&lt;/code&gt; 去做排序
+&lt;img src=&#34;../images/google-finance-watch-list-compare-3.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以下是依照 &lt;code&gt;價格變化幅度（上面顯示是「變更」的字樣）&lt;/code&gt; 去做排序&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-watch-list-compare-4.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;盈餘公布時間表&#34;&gt;盈餘公布時間表&lt;/h2&gt;
+&lt;p&gt;當加入的股票觀察名單有任何盈餘公布時間表時，可以在右方看到公布時間的列表&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-watch-list-benefit-timeline.png&#34; alt=&#34;Google Finance custom watch list&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/portfolio/watchlist&#34;&gt;Google 財經觀察清單&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 股票資訊</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</link>
+      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;股票基本資訊&#34;&gt;股票基本資訊&lt;/h2&gt;
+&lt;p&gt;在 Google 財經搜尋公司股票時，可以找到該公司股票股價相關資訊&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前次收盤價&lt;/li&gt;
+&lt;li&gt;單日股價範圍&lt;/li&gt;
+&lt;li&gt;一年股價範圍&lt;/li&gt;
+&lt;li&gt;總市值&lt;/li&gt;
+&lt;li&gt;本益比&lt;/li&gt;
+&lt;li&gt;股利收益率&lt;/li&gt;
+&lt;li&gt;CDP 環保分數&lt;/li&gt;
+&lt;li&gt;主要交易所&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-stock-info-1.png&#34; alt=&#34;Google Finance TSMC&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;財務表現&#34;&gt;財務表現&lt;/h2&gt;
+&lt;p&gt;在公司基本資訊下方可以看到這家公司的近期財務表現，可以用 &lt;code&gt;季度&lt;/code&gt;、&lt;code&gt;年度&lt;/code&gt; 的方式去觀察營收的狀況&lt;/p&gt;
+&lt;p&gt;可以看到有下列的指標資訊，並計算這些指標資訊的年增率&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;收益&lt;/li&gt;
+&lt;li&gt;淨利&lt;/li&gt;
+&lt;li&gt;稀釋每股盈餘&lt;/li&gt;
+&lt;li&gt;淨利潤率&lt;/li&gt;
+&lt;li&gt;營業收入&lt;/li&gt;
+&lt;li&gt;現金變動淨額&lt;/li&gt;
+&lt;li&gt;庫存現金&lt;/li&gt;
+&lt;li&gt;營業成本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以 &lt;code&gt;季度&lt;/code&gt; 方式觀看財務表現如下圖所示&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-stock-info-2.png&#34; alt=&#34;Google Finance TSMC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以 &lt;code&gt;年度&lt;/code&gt; 方式觀看財務表現如下圖所示&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/google-finance-stock-info-3.png&#34; alt=&#34;Google Finance TSMC&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/quote/2330:TPE&#34;&gt;台灣積體電路製造 (2330：TPE) 股價與新聞 - Google 財經&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Docs: 看盤軟體</title>
@@ -35,6 +130,40 @@
 &lt;li&gt;&lt;a href=&#34;https://www.moneydj.com/&#34;&gt;MoneyDJ理財網&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cnyes.com/&#34;&gt;Anue鉅亨&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cmoney.tw/finance/&#34;&gt;CMoney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Google 財經</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/</link>
+      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;./images/google-finance-home-cover.png&#34; alt=&#34;Google 財經&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;支援平台&#34;&gt;支援平台&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;語系&#34;&gt;語系&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;繁體中文&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;其他 Google 支援語言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;功能&#34;&gt;功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自訂觀察清單&lt;/li&gt;
+&lt;li&gt;股票相關新聞&lt;/li&gt;
+&lt;li&gt;股票基本資料查詢&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;相關資料&#34;&gt;相關資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/&#34;&gt;Google 財經 - 股市價格、即時報價與商業新聞&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
