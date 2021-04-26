@@ -5,7 +5,7 @@
     <description>Recent content in 文件 on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 25 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E6%96%87%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     
@@ -352,6 +352,23 @@
 &lt;li&gt;&lt;a href=&#34;https://www.moneydj.com/&#34;&gt;MoneyDJ理財網&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cnyes.com/&#34;&gt;Anue鉅亨&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cmoney.tw/finance/&#34;&gt;CMoney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 測試工具</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/tool/</link>
+      <pubDate>Mon, 26 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/tool/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;etf-回測&#34;&gt;ETF 回測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.etfreplay.com/&#34;&gt;ETFreplay - Analysis &amp;amp; Backtesting Tools for ETF Investing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

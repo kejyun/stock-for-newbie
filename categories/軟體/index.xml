@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 軟體</title>
+    <link>https://stock-for-newbie.kejyun.com/categories/%E8%BB%9F%E9%AB%94/</link>
+    <description>Recent content in 軟體 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 26 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 測試工具</title>
+      <link>https://stock-for-newbie.kejyun.com/docs/tool/</link>
+      <pubDate>Mon, 26 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/docs/tool/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;etf-回測&#34;&gt;ETF 回測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.etfreplay.com/&#34;&gt;ETFreplay - Analysis &amp;amp; Backtesting Tools for ETF Investing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
