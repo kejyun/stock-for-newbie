@@ -2,17 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/</loc>
-    <lastmod>2021-04-08T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/question/</loc>
-    <lastmod>2021-04-25T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/fugle/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/fugle/</loc>
     <lastmod>2021-04-25T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -22,8 +12,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/watch-list/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/watch-list/</loc>
     <lastmod>2021-04-25T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/basic/</loc>
+    <lastmod>2021-04-22T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -32,28 +27,43 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/</loc>
     <lastmod>2021-04-15T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/blog/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/blog/</loc>
     <lastmod>2021-04-15T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/sinotrade/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/sinotrade/</loc>
     <lastmod>2021-04-25T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/brokerage/us/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/brokerage/us/</loc>
     <lastmod>2021-04-14T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/video/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/video/</loc>
     <lastmod>2021-04-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/basic/leverage/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/basic/leverage/margin/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/basic/leverage/margin/forced-liquidation/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,18 +72,23 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/stock-information/</loc>
     <lastmod>2021-04-25T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/social/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/social/</loc>
     <lastmod>2021-04-14T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://stock-for-newbie.kejyun.com/investment-target/us-etf/voo/</loc>
     <lastmod>2021-04-26T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/basic/leverage/margin-short-stock/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -102,7 +117,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/book/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/book/</loc>
     <lastmod>2021-04-14T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -112,7 +127,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/stock-app/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/stock-app/</loc>
     <lastmod>2021-04-22T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -132,12 +147,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/tool/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/tool/</loc>
     <lastmod>2021-04-26T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/</loc>
     <lastmod>2021-04-25T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -152,28 +167,163 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/stock-app/futunn/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/stock-app/futunn/</loc>
     <lastmod>2021-04-22T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/api/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/api/</loc>
     <lastmod>2021-04-22T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/brokerage/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/</loc>
+    <lastmod>2021-04-08T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/reference/brokerage/</loc>
     <lastmod>2021-04-14T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/official/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/question/</loc>
+    <lastmod>2021-04-25T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/official/</loc>
     <lastmod>2021-04-15T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/docs/resource/</loc>
+    <loc>https://stock-for-newbie.kejyun.com/reference/resource/</loc>
     <lastmod>2021-04-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/leverage/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/leverage/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/margin-short-stock/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/margin-short-stock/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E6%96%B0%E6%89%8B/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E6%96%B0%E6%89%8B/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E6%A7%93%E6%A1%BF/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E6%A7%93%E6%A1%BF/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%82%A1%E7%A5%A8/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%82%A1%E7%A5%A8%E9%9F%AD%E8%8F%9C%E9%9B%9E/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8%E9%9F%AD%E8%8F%9C%E9%9B%9E/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%9E%8D%E5%88%B8/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%9E%8D%E5%88%B8/</loc>
+    <lastmod>2021-05-16T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/margin/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/margin/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%9E%8D%E8%B3%87/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%9E%8D%E8%B3%87/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%9E%8D%E8%B3%87%E6%96%B7%E9%A0%AD/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%9E%8D%E8%B3%87%E6%96%B7%E9%A0%AD/</loc>
+    <lastmod>2021-05-14T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -193,16 +343,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://stock-for-newbie.kejyun.com/categories/00692/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/categories/</loc>
     <lastmod>2021-04-26T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -233,11 +373,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://stock-for-newbie.kejyun.com/categories/spy/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/tags/</loc>
     <lastmod>2021-04-26T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -372,16 +507,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/tags/%E6%96%B0%E6%89%8B/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/categories/%E6%96%B0%E6%89%8B/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://stock-for-newbie.kejyun.com/tags/%E6%B8%AC%E8%A9%A6%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-04-26T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,26 +523,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://stock-for-newbie.kejyun.com/categories/%E7%BE%8E%E8%82%A1/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%82%A1%E7%A5%A8/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/tags/%E8%82%A1%E7%A5%A8%E9%9F%AD%E8%8F%9C%E9%9B%9E/</loc>
-    <lastmod>2021-04-26T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8%E9%9F%AD%E8%8F%9C%E9%9B%9E/</loc>
     <lastmod>2021-04-26T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -528,16 +633,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://stock-for-newbie.kejyun.com/categories/%E5%A4%96%E8%B3%87/</loc>
-    <lastmod>2021-04-25T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/tags/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/</loc>
-    <lastmod>2021-04-25T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stock-for-newbie.kejyun.com/categories/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/</loc>
     <lastmod>2021-04-25T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -709,6 +804,16 @@
   </url><url>
     <loc>https://stock-for-newbie.kejyun.com/categories/%E9%83%A8%E8%90%BD%E6%A0%BC/</loc>
     <lastmod>2021-04-15T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/tags/%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99/</loc>
+    <lastmod>2021-04-08T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stock-for-newbie.kejyun.com/categories/%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99/</loc>
+    <lastmod>2021-04-08T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

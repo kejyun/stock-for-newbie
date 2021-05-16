@@ -1,0 +1,230 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 融資斷頭</title>
+    <link>https://stock-for-newbie.kejyun.com/categories/%E8%9E%8D%E8%B3%87%E6%96%B7%E9%A0%AD/</link>
+    <description>Recent content in 融資斷頭 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 14 May 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E8%9E%8D%E8%B3%87%E6%96%B7%E9%A0%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Basic: 融資斷頭</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/leverage/margin/forced-liquidation/</link>
+      <pubDate>Fri, 14 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/leverage/margin/forced-liquidation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;融資維持率&#34;&gt;融資維持率&lt;/h2&gt;
+&lt;p&gt;股票下跌到一定比例時，自己要額外再出錢，補上下跌的虧損&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;融資維持率 = 股票價格 / 借錢的金額&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;可借多少比例的錢&lt;/th&gt;
+&lt;th&gt;股票融資時價格&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;融資當下融資維持率&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上市股票&lt;/td&gt;
+&lt;td&gt;60%&lt;/td&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;1,000,000 / 600,000 = 166%&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;上櫃股票&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;500,000&lt;/td&gt;
+&lt;td&gt;1,000,000 / 500,000 = 200%&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;計算出來跟券商借錢融資買股票的當下，&lt;code&gt;上市股票&lt;/code&gt; 當下的融資維持率為 &lt;code&gt;166%&lt;/code&gt;，&lt;code&gt;上櫃股票&lt;/code&gt; 當下的融資維持率為 &lt;code&gt;200%&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;融資何時需自己追繳加錢&#34;&gt;融資何時需自己追繳加錢&lt;/h2&gt;
+&lt;p&gt;股票價格會隨著市場每天波動，券商因為借錢給你買股票，也會借給你的錢到時候血本無歸&lt;/p&gt;
+&lt;p&gt;所以當股票價格低於跟券商借錢的 &lt;code&gt;130%&lt;/code&gt; 股票就會被券商強制賣掉，避免價格下跌過多，導致券商自己的錢也血本無歸，這叫 &lt;code&gt;融資斷頭&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;所以等於時當時股票 &lt;code&gt;融資維持率&lt;/code&gt; 低於 &lt;code&gt;130%&lt;/code&gt; 就會被 &lt;code&gt;融資斷頭&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;融資斷頭股票價格&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上市股票&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;600,000 * 130% = 780,000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;上櫃股票&lt;/td&gt;
+&lt;td&gt;500,000&lt;/td&gt;
+&lt;td&gt;500,000 * 130% = 650,000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;code&gt;上市股票&lt;/code&gt; 融資借了 &lt;code&gt;600,000&lt;/code&gt; 時，股票價格低於 &lt;code&gt;780,000&lt;/code&gt; 時就會被強制融資斷頭賣出&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;上櫃股票&lt;/code&gt; 融資借了 &lt;code&gt;500,000&lt;/code&gt; 時，股票價格低於 &lt;code&gt;650,000&lt;/code&gt; 時就會被強制融資斷頭賣出&lt;/p&gt;
+&lt;h2 id=&#34;融資斷頭追繳階段&#34;&gt;融資斷頭追繳階段&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;融資維持率&lt;/th&gt;
+&lt;th&gt;處置狀況&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;166% 以上&lt;/td&gt;
+&lt;td&gt;不需要追繳錢&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;130% ~ 166%&lt;/td&gt;
+&lt;td&gt;券商要求追繳至 166% 以上，但不會強制斷頭賣掉&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;130% 以下&lt;/td&gt;
+&lt;td&gt;券商強制斷頭賣掉，投資人不再擁有這檔股票&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;融資現償-不借錢直接買下股票&#34;&gt;融資現償: 不借錢直接買下股票&lt;/h2&gt;
+&lt;p&gt;若融資的金額為 &lt;code&gt;600,000&lt;/code&gt;，將融資的金額全部補足給券商，則就擁有了這張股票，不會被追繳或斷頭&lt;/p&gt;
+&lt;!--adsense--&gt;
+&lt;h2 id=&#34;融資斷頭損益計算&#34;&gt;融資斷頭損益計算&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;股票價格&lt;/th&gt;
+&lt;th&gt;股票漲跌幅&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;融資維持率&lt;/th&gt;
+&lt;th&gt;自己出多少&lt;/th&gt;
+&lt;th&gt;需要追繳多少&lt;/th&gt;
+&lt;th&gt;損益&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1,200,000&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;200 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;200,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1,100,000&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;183 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;100,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;0%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;166 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;900,000&lt;/td&gt;
+&lt;td&gt;-10%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;150 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;100,000&lt;/td&gt;
+&lt;td&gt;-100,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;800,000&lt;/td&gt;
+&lt;td&gt;-20%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;133 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;200,000&lt;/td&gt;
+&lt;td&gt;-200,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;780,000&lt;/td&gt;
+&lt;td&gt;-22%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;130 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;220,000&lt;/td&gt;
+&lt;td&gt;-220,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;當股票上漲 &lt;code&gt;20%&lt;/code&gt; 時，若是現股買賣時，則可以賺入 &lt;code&gt;400,000 * 20% = 80,000&lt;/code&gt;，若是融資時股票上漲 &lt;code&gt;20%&lt;/code&gt;，則可賺入 &lt;code&gt;200,000&lt;/code&gt;，所以融資是 &lt;code&gt;2.5 倍槓桿（ 200,000 / 80,000 ）&lt;/code&gt; 去操控獲利，但當虧損也是 &lt;code&gt;2.5 倍槓桿&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;當股票下跌 &lt;code&gt;-20%&lt;/code&gt; 時，若是現股買賣，則虧損 &lt;code&gt;400,000 * -20% = -80000&lt;/code&gt;，若是融資時股票下跌 &lt;code&gt;-20%&lt;/code&gt;，則可虧損 &lt;code&gt;-200,000&lt;/code&gt;，所以融資虧損也是 &lt;code&gt;2.5 倍槓桿（-200,000 / -80,000）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;所以當股價跌至 &lt;code&gt;780,000&lt;/code&gt; 以下時強制斷頭，則券商會強制斷頭將股票賣出，券商將自己融資的錢 &lt;code&gt;600,000&lt;/code&gt; 拿回去後，剩餘的部分再還給投資人&lt;/p&gt;
+&lt;p&gt;投資人斷頭後至少虧損 &lt;code&gt;220,000&lt;/code&gt;，還要加上 &lt;code&gt;融資的利息&lt;/code&gt;、&lt;code&gt;手續費&lt;/code&gt;、&lt;code&gt;交易稅&lt;/code&gt; 最後剩下的才是能拿回的錢&lt;/p&gt;
+&lt;p&gt;若不考慮其他的成本，融資斷頭對於本金來說，等於是至少虧損 &lt;code&gt;220000 / 400000 = 55%&lt;/code&gt; 的本金，原本本金 &lt;code&gt;400,000&lt;/code&gt; 剩下 &lt;code&gt;180,000&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;融資多殺多&#34;&gt;融資多殺多&lt;/h2&gt;
+&lt;p&gt;券商怕自己借的錢有虧損，不管股價多少直接掛 &lt;code&gt;市價拋售&lt;/code&gt;，融資斷頭股票多，很多股票都掛 &lt;code&gt;市價急賣&lt;/code&gt;，變成很大的賣壓，股價急跌，變成融資多殺多&lt;/p&gt;
+&lt;p&gt;股票急跌 &lt;code&gt;不要急著接盤&lt;/code&gt;，融資斷頭的多殺多，會讓股價下跌更多&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/how-deal-on-credit/&#34;&gt;融資交易是什麼？股票融資維持率是什麼？融資成數是多少？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?ID=6001422&#34;&gt;一篇看懂什麼是「融資斷頭」？又會對股市造成什麼影響？ - Smart自學網|財經好讀 - 股票 - 股票投資術(台股,投資,融資,斷頭,Peter投資去)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nico-invest.com/2020/05/25/margin-call/&#34;&gt;「追繳、斷頭」是什麼？維持率怎麼算？ - 妮可要投資&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

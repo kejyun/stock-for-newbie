@@ -5,7 +5,7 @@
     <description>Recent content on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 26 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/tags/%E8%82%A1%E7%A5%A8%E9%9F%AD%E8%8F%9C%E9%9B%9E/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,37 +16,11 @@
     
     
     <item>
-      <title>Docs: 文件</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/docs/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Question: 常見問題</title>
-      <link>https://stock-for-newbie.kejyun.com/question/</link>
+      <title>Reference: 玉山富果</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/fugle/</link>
       <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/question/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 玉山富果</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/fugle/</link>
-      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/fugle/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/fugle/</guid>
       <description>
         
         
@@ -106,17 +80,18 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://tw.tv.yahoo.com/moneypower/5-041416777.html&#34;&gt;【大佛理財小百科】股匯雙殺 - Yahoo TV&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://tw.tv.yahoo.com/moneypower/%E8%82%A1%E5%B8%82%E7%86%B1%E6%BD%AE%E6%8E%A8%E5%8D%87%E6%96%B0%E5%8F%B0%E5%B9%A3-%E8%82%A1%E5%8C%AF%E9%BD%8A%E6%8F%9A%E5%8F%88%E4%BE%86%E4%BA%86-055811447.html&#34;&gt;股市熱潮推升新台幣 股匯齊揚又來了！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thenewslens.com/article/150899&#34;&gt;台股大崩盤、匯市卻超淡定？後勢如何操作，專家建議一定要看懂「匯率」 - The News Lens 關鍵評論網&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
-      <title>Docs: 觀察清單</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/watch-list/</link>
+      <title>Reference: 觀察清單</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/watch-list/</link>
       <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/watch-list/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/watch-list/</guid>
       <description>
         
         
@@ -160,6 +135,19 @@
     </item>
     
     <item>
+      <title>Basic: 基礎</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Investment-Target: 投資標的</title>
       <link>https://stock-for-newbie.kejyun.com/investment-target/</link>
       <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
@@ -173,11 +161,11 @@
     </item>
     
     <item>
-      <title>Docs: 台灣</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/</link>
+      <title>Reference: 台灣</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/</guid>
       <description>
         
         
@@ -208,11 +196,11 @@
     </item>
     
     <item>
-      <title>Docs: 部落格</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/blog/</link>
+      <title>Reference: 部落格</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/blog/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/blog/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/blog/</guid>
       <description>
         
         
@@ -235,11 +223,11 @@
     </item>
     
     <item>
-      <title>Docs: 永豐金證券</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/sinotrade/</link>
+      <title>Reference: 永豐金證券</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/sinotrade/</link>
       <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/brokerage/taiwan/sinotrade/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/sinotrade/</guid>
       <description>
         
         
@@ -265,11 +253,11 @@
     </item>
     
     <item>
-      <title>Docs: 美國</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/brokerage/us/</link>
+      <title>Reference: 美國</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/us/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/brokerage/us/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/us/</guid>
       <description>
         
         
@@ -283,11 +271,11 @@
     </item>
     
     <item>
-      <title>Docs: 影音</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/video/</link>
+      <title>Reference: 影音</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/video/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/video/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/video/</guid>
       <description>
         
         
@@ -306,6 +294,363 @@
 &lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292&#34;&gt;‎Apple Podcasts －《Gooaye 股癌》&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Basic: 槓桿</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/leverage/</link>
+      <pubDate>Sun, 16 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/leverage/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/what-is-stock-credit-margin-trade-0/&#34;&gt;股票信用交易帳戶是什麼？信用交易資格如何取得(融資、融券、當沖) - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Basic: 融資</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/leverage/margin/</link>
+      <pubDate>Fri, 14 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/leverage/margin/</guid>
+      <description>
+        
+        
+        &lt;p&gt;沒錢想買股票，跟券商借錢買&lt;/p&gt;
+&lt;h2 id=&#34;什麼時候會想跟券商借錢買股票&#34;&gt;什麼時候會想跟券商借錢買股票？&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;錢不夠，覺得未來會漲，借錢來賺股票價差&lt;/li&gt;
+&lt;li&gt;買來的股票短時間就會賣掉，借錢來短期買進賣出&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;融資可以跟券商借多少錢&#34;&gt;融資可以跟券商借多少錢？&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;可借多少比例的錢&lt;/th&gt;
+&lt;th&gt;自己出多少比例&lt;/th&gt;
+&lt;th&gt;股票融資時價格&lt;/th&gt;
+&lt;th&gt;自己出多少&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;槓桿倍數&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上市股票&lt;/td&gt;
+&lt;td&gt;60%&lt;/td&gt;
+&lt;td&gt;40%&lt;/td&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;2.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;上櫃股票&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;500,000&lt;/td&gt;
+&lt;td&gt;500,000&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;融資買上市股票是 &lt;code&gt;2.5 倍槓桿&lt;/code&gt;，用 &lt;code&gt;400,000&lt;/code&gt; 的現金可以買到 &lt;code&gt;1,000,000&lt;/code&gt; 的股票，所以是 &lt;code&gt;1,000,000 / 400,000 = 2.5 倍&lt;/code&gt; 槓桿&lt;/p&gt;
+&lt;p&gt;融資買上櫃股票是 &lt;code&gt;2 倍槓桿&lt;/code&gt;，用 &lt;code&gt;500,000&lt;/code&gt; 的現金可以買到 &lt;code&gt;1,000,000&lt;/code&gt; 的股票，所以是 &lt;code&gt;1,000,000 / 500,000 = 2 倍&lt;/code&gt; 槓桿&lt;/p&gt;
+&lt;h2 id=&#34;融資成本&#34;&gt;融資成本&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;買入手續費&lt;/th&gt;
+&lt;th&gt;賣出手續費&lt;/th&gt;
+&lt;th&gt;交易手續費&lt;/th&gt;
+&lt;th&gt;融資利息&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;現股買賣&lt;/td&gt;
+&lt;td&gt;0.001425&lt;/td&gt;
+&lt;td&gt;0.001425&lt;/td&gt;
+&lt;td&gt;0.003&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;融資買賣&lt;/td&gt;
+&lt;td&gt;0.001425&lt;/td&gt;
+&lt;td&gt;0.001425&lt;/td&gt;
+&lt;td&gt;0.003&lt;/td&gt;
+&lt;td&gt;有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;融資 &lt;code&gt;年息&lt;/code&gt; 約 &lt;code&gt;6% ~ 7%&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;融資利息 = 融資金額 * 融資利率 * 天數 / 365&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;融資 &lt;code&gt;600,000&lt;/code&gt;，年息 &lt;code&gt;7%&lt;/code&gt;，借了 &lt;code&gt;30 天&lt;/code&gt;，融資利息則為&lt;/p&gt;
+&lt;p&gt;600,000 * 7% * 30 天 / 365 = &lt;code&gt;3452&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;所以融資成本費用有下列項目&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;金額&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;買入手續費&lt;/td&gt;
+&lt;td&gt;1000000 * 0.001425 = 1425&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;賣出手續費&lt;/td&gt;
+&lt;td&gt;1000000 * 0.001425 = 1425&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交易手續費&lt;/td&gt;
+&lt;td&gt;1000000 * 0.003 = 3000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;融資利息&lt;/td&gt;
+&lt;td&gt;3452&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;總交易成本是 &lt;code&gt;買入手續費 1425&lt;/code&gt; + &lt;code&gt;賣出手續費 1425&lt;/code&gt; + &lt;code&gt;交易手續費 3000&lt;/code&gt; + &lt;code&gt;融資利息 3452&lt;/code&gt; = &lt;code&gt;9302&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;若交易手續費是網路下單的基本 6 折，總交易成本則為 &lt;code&gt;買入手續費 855&lt;/code&gt; + &lt;code&gt;賣入手續費 855&lt;/code&gt; + &lt;code&gt;交易手續費 3000&lt;/code&gt; + &lt;code&gt;融資利息 3452&lt;/code&gt; = &lt;code&gt;8162&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;融資缺點&#34;&gt;融資缺點&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;利息相對高&lt;/li&gt;
+&lt;li&gt;融資利息 &lt;code&gt;非交易日&lt;/code&gt; 也需要計算利息，所以遇到週末假日，也沒辦法趕快把股票賣停算利息&lt;/li&gt;
+&lt;li&gt;槓桿風險，賺得多，但也可能賠得多&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/how-deal-on-credit/&#34;&gt;融資交易是什麼？股票融資維持率是什麼？融資成數是多少？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nico-invest.com/2020/05/25/credit-account/&#34;&gt;一次搞懂融資融券 | 信用帳戶、融資、融券是什麼? - 妮可要投資&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Basic: 融資斷頭</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/leverage/margin/forced-liquidation/</link>
+      <pubDate>Fri, 14 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/leverage/margin/forced-liquidation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;融資維持率&#34;&gt;融資維持率&lt;/h2&gt;
+&lt;p&gt;股票下跌到一定比例時，自己要額外再出錢，補上下跌的虧損&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;融資維持率 = 股票價格 / 借錢的金額&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;可借多少比例的錢&lt;/th&gt;
+&lt;th&gt;股票融資時價格&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;融資當下融資維持率&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上市股票&lt;/td&gt;
+&lt;td&gt;60%&lt;/td&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;1,000,000 / 600,000 = 166%&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;上櫃股票&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;500,000&lt;/td&gt;
+&lt;td&gt;1,000,000 / 500,000 = 200%&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;計算出來跟券商借錢融資買股票的當下，&lt;code&gt;上市股票&lt;/code&gt; 當下的融資維持率為 &lt;code&gt;166%&lt;/code&gt;，&lt;code&gt;上櫃股票&lt;/code&gt; 當下的融資維持率為 &lt;code&gt;200%&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;融資何時需自己追繳加錢&#34;&gt;融資何時需自己追繳加錢&lt;/h2&gt;
+&lt;p&gt;股票價格會隨著市場每天波動，券商因為借錢給你買股票，也會借給你的錢到時候血本無歸&lt;/p&gt;
+&lt;p&gt;所以當股票價格低於跟券商借錢的 &lt;code&gt;130%&lt;/code&gt; 股票就會被券商強制賣掉，避免價格下跌過多，導致券商自己的錢也血本無歸，這叫 &lt;code&gt;融資斷頭&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;所以等於時當時股票 &lt;code&gt;融資維持率&lt;/code&gt; 低於 &lt;code&gt;130%&lt;/code&gt; 就會被 &lt;code&gt;融資斷頭&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;融資斷頭股票價格&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上市股票&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;600,000 * 130% = 780,000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;上櫃股票&lt;/td&gt;
+&lt;td&gt;500,000&lt;/td&gt;
+&lt;td&gt;500,000 * 130% = 650,000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;code&gt;上市股票&lt;/code&gt; 融資借了 &lt;code&gt;600,000&lt;/code&gt; 時，股票價格低於 &lt;code&gt;780,000&lt;/code&gt; 時就會被強制融資斷頭賣出&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;上櫃股票&lt;/code&gt; 融資借了 &lt;code&gt;500,000&lt;/code&gt; 時，股票價格低於 &lt;code&gt;650,000&lt;/code&gt; 時就會被強制融資斷頭賣出&lt;/p&gt;
+&lt;h2 id=&#34;融資斷頭追繳階段&#34;&gt;融資斷頭追繳階段&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;融資維持率&lt;/th&gt;
+&lt;th&gt;處置狀況&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;166% 以上&lt;/td&gt;
+&lt;td&gt;不需要追繳錢&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;130% ~ 166%&lt;/td&gt;
+&lt;td&gt;券商要求追繳至 166% 以上，但不會強制斷頭賣掉&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;130% 以下&lt;/td&gt;
+&lt;td&gt;券商強制斷頭賣掉，投資人不再擁有這檔股票&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;融資現償-不借錢直接買下股票&#34;&gt;融資現償: 不借錢直接買下股票&lt;/h2&gt;
+&lt;p&gt;若融資的金額為 &lt;code&gt;600,000&lt;/code&gt;，將融資的金額全部補足給券商，則就擁有了這張股票，不會被追繳或斷頭&lt;/p&gt;
+&lt;!--adsense--&gt;
+&lt;h2 id=&#34;融資斷頭損益計算&#34;&gt;融資斷頭損益計算&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;股票價格&lt;/th&gt;
+&lt;th&gt;股票漲跌幅&lt;/th&gt;
+&lt;th&gt;跟券商借多少&lt;/th&gt;
+&lt;th&gt;融資維持率&lt;/th&gt;
+&lt;th&gt;自己出多少&lt;/th&gt;
+&lt;th&gt;需要追繳多少&lt;/th&gt;
+&lt;th&gt;損益&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1,200,000&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;200 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;200,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1,100,000&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;183 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;100,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1,000,000&lt;/td&gt;
+&lt;td&gt;0%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;166 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;900,000&lt;/td&gt;
+&lt;td&gt;-10%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;150 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;100,000&lt;/td&gt;
+&lt;td&gt;-100,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;800,000&lt;/td&gt;
+&lt;td&gt;-20%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;133 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;200,000&lt;/td&gt;
+&lt;td&gt;-200,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;780,000&lt;/td&gt;
+&lt;td&gt;-22%&lt;/td&gt;
+&lt;td&gt;600,000&lt;/td&gt;
+&lt;td&gt;130 %&lt;/td&gt;
+&lt;td&gt;400,000&lt;/td&gt;
+&lt;td&gt;220,000&lt;/td&gt;
+&lt;td&gt;-220,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;當股票上漲 &lt;code&gt;20%&lt;/code&gt; 時，若是現股買賣時，則可以賺入 &lt;code&gt;400,000 * 20% = 80,000&lt;/code&gt;，若是融資時股票上漲 &lt;code&gt;20%&lt;/code&gt;，則可賺入 &lt;code&gt;200,000&lt;/code&gt;，所以融資是 &lt;code&gt;2.5 倍槓桿（ 200,000 / 80,000 ）&lt;/code&gt; 去操控獲利，但當虧損也是 &lt;code&gt;2.5 倍槓桿&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;當股票下跌 &lt;code&gt;-20%&lt;/code&gt; 時，若是現股買賣，則虧損 &lt;code&gt;400,000 * -20% = -80000&lt;/code&gt;，若是融資時股票下跌 &lt;code&gt;-20%&lt;/code&gt;，則可虧損 &lt;code&gt;-200,000&lt;/code&gt;，所以融資虧損也是 &lt;code&gt;2.5 倍槓桿（-200,000 / -80,000）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;所以當股價跌至 &lt;code&gt;780,000&lt;/code&gt; 以下時強制斷頭，則券商會強制斷頭將股票賣出，券商將自己融資的錢 &lt;code&gt;600,000&lt;/code&gt; 拿回去後，剩餘的部分再還給投資人&lt;/p&gt;
+&lt;p&gt;投資人斷頭後至少虧損 &lt;code&gt;220,000&lt;/code&gt;，還要加上 &lt;code&gt;融資的利息&lt;/code&gt;、&lt;code&gt;手續費&lt;/code&gt;、&lt;code&gt;交易稅&lt;/code&gt; 最後剩下的才是能拿回的錢&lt;/p&gt;
+&lt;p&gt;若不考慮其他的成本，融資斷頭對於本金來說，等於是至少虧損 &lt;code&gt;220000 / 400000 = 55%&lt;/code&gt; 的本金，原本本金 &lt;code&gt;400,000&lt;/code&gt; 剩下 &lt;code&gt;180,000&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;融資多殺多&#34;&gt;融資多殺多&lt;/h2&gt;
+&lt;p&gt;券商怕自己借的錢有虧損，不管股價多少直接掛 &lt;code&gt;市價拋售&lt;/code&gt;，融資斷頭股票多，很多股票都掛 &lt;code&gt;市價急賣&lt;/code&gt;，變成很大的賣壓，股價急跌，變成融資多殺多&lt;/p&gt;
+&lt;p&gt;股票急跌 &lt;code&gt;不要急著接盤&lt;/code&gt;，融資斷頭的多殺多，會讓股價下跌更多&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/how-deal-on-credit/&#34;&gt;融資交易是什麼？股票融資維持率是什麼？融資成數是多少？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?ID=6001422&#34;&gt;一篇看懂什麼是「融資斷頭」？又會對股市造成什麼影響？ - Smart自學網|財經好讀 - 股票 - 股票投資術(台股,投資,融資,斷頭,Peter投資去)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nico-invest.com/2020/05/25/margin-call/&#34;&gt;「追繳、斷頭」是什麼？維持率怎麼算？ - 妮可要投資&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -353,11 +698,11 @@
     </item>
     
     <item>
-      <title>Docs: 股票資訊</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</link>
+      <title>Reference: 股票資訊</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/stock-information/</link>
       <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/stock-information/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/stock-information/</guid>
       <description>
         
         
@@ -400,11 +745,11 @@
     </item>
     
     <item>
-      <title>Docs: 社群</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/social/</link>
+      <title>Reference: 社群</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/social/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/social/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/social/</guid>
       <description>
         
         
@@ -455,6 +800,23 @@
 &lt;li&gt;&lt;a href=&#34;https://www.moneydj.com/ETF/X/Basic/Basic0004.xdjhtm?etfid=SPY&#34;&gt;SPDR標普500指數ETF-SPY-ETF基本資料 - FundDJ基智網 - MoneyDJ理財網&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.moneydj.com/ETF/X/Basic/Basic0004.xdjhtm?etfid=VOO&#34;&gt;https://www.moneydj.com/ETF/X/Basic/Basic0004.xdjhtm?etfid=VOO&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Basic: 融券</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/leverage/margin-short-stock/</link>
+      <pubDate>Sun, 16 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/leverage/margin-short-stock/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/how-margin-short-stock/&#34;&gt;融券是什麼？股票融券利息、維持率、回補怎麼計算？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
@@ -665,11 +1027,11 @@
     </item>
     
     <item>
-      <title>Docs: 書籍</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/book/</link>
+      <title>Reference: 書籍</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/book/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/book/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/book/</guid>
       <description>
         
         
@@ -723,11 +1085,11 @@
     </item>
     
     <item>
-      <title>Docs: 看盤軟體</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/</link>
+      <title>Reference: 看盤軟體</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/</link>
       <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/</guid>
       <description>
         
         
@@ -849,11 +1211,11 @@
     </item>
     
     <item>
-      <title>Docs: 測試工具</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/tool/</link>
+      <title>Reference: 測試工具</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/tool/</link>
       <pubDate>Mon, 26 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/tool/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/tool/</guid>
       <description>
         
         
@@ -866,11 +1228,11 @@
     </item>
     
     <item>
-      <title>Docs: Google 財經</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/</link>
+      <title>Reference: Google 財經</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/</link>
       <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/google-finance/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/</guid>
       <description>
         
         
@@ -961,11 +1323,11 @@
     </item>
     
     <item>
-      <title>Docs: 富途牛牛</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/stock-app/futunn/</link>
+      <title>Reference: 富途牛牛</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/futunn/</link>
       <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/stock-app/futunn/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/futunn/</guid>
       <description>
         
         
@@ -995,11 +1357,11 @@
     </item>
     
     <item>
-      <title>Docs: API</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/api/</link>
+      <title>Reference: API</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/api/</link>
       <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/api/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/api/</guid>
       <description>
         
         
@@ -1012,11 +1374,11 @@
     </item>
     
     <item>
-      <title>Docs: 券商</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/brokerage/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
+      <title>Reference: 參考資料</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/</link>
+      <pubDate>Thu, 08 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/brokerage/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/</guid>
       <description>
         
         
@@ -1025,11 +1387,37 @@
     </item>
     
     <item>
-      <title>Docs: 官方</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/official/</link>
+      <title>Reference: 券商</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/</link>
+      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Question: 常見問題</title>
+      <link>https://stock-for-newbie.kejyun.com/question/</link>
+      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/question/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Reference: 官方</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/official/</link>
       <pubDate>Thu, 15 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/official/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/official/</guid>
       <description>
         
         
@@ -1046,11 +1434,11 @@
     </item>
     
     <item>
-      <title>Docs: 資源</title>
-      <link>https://stock-for-newbie.kejyun.com/docs/resource/</link>
+      <title>Reference: 資源</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/resource/</link>
       <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
       
-      <guid>https://stock-for-newbie.kejyun.com/docs/resource/</guid>
+      <guid>https://stock-for-newbie.kejyun.com/reference/resource/</guid>
       <description>
         
         
