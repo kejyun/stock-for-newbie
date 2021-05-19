@@ -1,0 +1,80 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 進階</title>
+    <link>https://stock-for-newbie.kejyun.com/categories/%E9%80%B2%E9%9A%8E/</link>
+    <description>Recent content in 進階 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 May 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E9%80%B2%E9%9A%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Advanced: 停利停損</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/profit-loss/</link>
+      <pubDate>Wed, 19 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/profit-loss/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;停利點-lock-in-gain-point&#34;&gt;停利點 (lock-in-gain point)&lt;/h2&gt;
+&lt;p&gt;報酬風險比，報酬要比風險高，期望值要是正的，停利點的設定比停損還難&lt;/p&gt;
+&lt;h3 id=&#34;投資條件&#34;&gt;投資條件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;預期獲利 10 % 以上&lt;/li&gt;
+&lt;li&gt;短期 1、2 個月內飆漲超過 30% 算是很好的狀況&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;停利條件&#34;&gt;停利條件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;創新高後，往下灌破上一個高點則停利，表示沒有動能可以支持創新高後的上漲&lt;/li&gt;
+&lt;li&gt;守住過去平均獲利&lt;/li&gt;
+&lt;li&gt;獲利 20~30 % 對於短期波段操作者算是 ok&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;停損點-stop-loss-point&#34;&gt;停損點 (stop loss point)&lt;/h2&gt;
+&lt;h3 id=&#34;停損條件&#34;&gt;停損條件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;投資虧損 10% 以內&lt;/li&gt;
+&lt;li&gt;總資金虧損 5% 以內&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;風險控管&#34;&gt;風險控管&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;避免接個股下跌的中的股票，很少機會會出現 V 型反轉&lt;/li&gt;
+&lt;li&gt;大盤指數 ETF 可以去接下跌的波段點，預期來講大盤長期趨勢是往上的&lt;/li&gt;
+&lt;li&gt;確定有資金接盤再進場，寧願損失一點點獲利，也要確保股票是有人看好準備投入的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;進場點&#34;&gt;進場點&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;量縮價穩&lt;/li&gt;
+&lt;li&gt;連續幾天沒破新低&lt;/li&gt;
+&lt;li&gt;跌破 10 年線&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/00BZJlJsu20eyGXNm1RaC5?si=mgWllZthSEmH1KB2EIbm4g&#34;&gt;EP27 通膨升溫拖垮美股？另類成長股挑選，以及波段交易停利停損點該怎麼設定 - 美股投資學－財女Jenny | Podcast on Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Advanced: 進階</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/</link>
+      <pubDate>Wed, 19 May 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
