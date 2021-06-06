@@ -5,7 +5,7 @@
     <description>Recent content in 新手 on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 19 May 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E6%96%B0%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
     
@@ -221,7 +221,7 @@
         &lt;h2 id=&#34;美股---豐存股&#34;&gt;美股 - 豐存股&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;./images/sinotrade-foreign-stock.png&#34; alt=&#34;美股 - 豐存股&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;定期定額買入美股優惠手續費 &lt;code&gt;0.3%&lt;/code&gt;，最低手需費收 &lt;code&gt;1 美元&lt;/code&gt;，優惠日期到 2021/06/30 號&lt;/p&gt;
+&lt;p&gt;定期定額買入美股優惠手續費 &lt;code&gt;0.3%&lt;/code&gt;，最低手需費收 &lt;code&gt;1 美元&lt;/code&gt;，優惠日期到 2021/12/31 號&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;定期定額，目前台灣券商定期定額存美股最優惠方案，不曉得優惠方案會不會延長，不然的話應該直接用美股券商去投資美股會比較好，美股券商目前皆不收任何交易手續費&lt;/p&gt;
 &lt;p&gt;賣出手續費比照複委託賣出手續費，看怎麼跟營業員談，但複委託賣出的手續費低消還是很高，所以如果賣出的股票股價沒有很多的話，可能很多的獲利都會被複委託手續費吃掉，所以定期定額的時間沒有很長的話，很難能夠累積到足夠可以賣出的股票可以高於賣出手續費低消金額，覺得是有點美中不足的地方&lt;/p&gt;
@@ -234,6 +234,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aiinvest.sinotrade.com.tw/foreign/faq&#34;&gt;美股｜常見問題｜豐存股&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sinotrade.com.tw/richclub/dawhotou/product&#34;&gt;有大戶投 APP 陪伴，選股交易 PRO 簡單︱永豐金證券大戶投&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -252,6 +253,65 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.tdameritrade.com/&#34;&gt;TD Ameritrade 德美利證券&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.firstrade.com/content/zh-tw/welcome&#34;&gt;Firstrade 第一證券&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reference: Drip 股息再投入</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/drip/</link>
+      <pubDate>Sun, 06 Jun 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/drip/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;td-ameritrade-設定-drip-股息再投入&#34;&gt;TD Ameritrade 設定 Drip 股息再投入&lt;/h2&gt;
+&lt;p&gt;在登入 &lt;a href=&#34;https://invest.ameritrade.com/grid/p/site#r=drip&#34;&gt;TD Ameritrade&lt;/a&gt; 後，在上方的選單選擇 &lt;code&gt;My Account（我的帳號）&lt;/code&gt;，並點選下方的 &lt;code&gt;Dividend Reinvestment（股息再投資）&lt;/code&gt; 連結&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-1.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Dividend Reinvestment（股息再投資）&lt;/code&gt; 頁面，選擇左側的 &lt;code&gt;Stock &amp;amp; ETF Dividends（股票 &amp;amp; ETF 股息）&lt;/code&gt; 頁籤&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-2.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Stock &amp;amp; ETF Dividends（股票 &amp;amp; ETF 股息）&lt;/code&gt; 頁籤，可以看到右側的 &lt;code&gt;Eligible stocks &amp;amp; ETF&lt;/code&gt; 區塊，可以看到下方的選單顯示下列訊息&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have not selected to have all of your current and future eligible stocks and ETF in DRIP&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Your current hold no stocks or ETFs eligible to be enrolled in DRIP&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Check the box above to automatically enroll any future purchases of eligible stocks en ETFs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目前沒有股票符合股息再投資，可以點選 &lt;code&gt;Eligible stocks &amp;amp; ETF&lt;/code&gt; 區塊右側的 &lt;code&gt;Edit enrollments&lt;/code&gt; 按鈕&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-3.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;勾選 &lt;code&gt;Automatically enroll ALL current and future eligible stocks and ETFs in DRIP&lt;/code&gt;，然後點選右方的 &lt;code&gt;Save&lt;/code&gt; 按鈕&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-4.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設定完成後，上方會出現 &lt;code&gt;All of your eligible current stocks/ETFs are now enrolled in DRIP, and eligible future ones will be automatically enrolled as well.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;而且下方顯示 &lt;code&gt;Automatically enroll ALL current and future eligible stocks and ETFs in DRIP.&lt;/code&gt;，這樣就表示已經設定完成股息再投入&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-5.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;完成股息再投入後，所有從股票中獲得的股息，就會自動持續買入原有股票，讓資金能夠繼續進行復力投資&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://invest.ameritrade.com/grid/p/site#r=drip&#34;&gt;TD Ameritrade - Dividend Reinvestment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tdameritrade.com/home.html&#34;&gt;Online Stock Trading, Investing, Brokerage | TD Ameritrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B_Q9XPXp0OA&#34;&gt;【美股開戶TD】美國券商沒有說 讓你默默賺更多錢 自動股息再投入 瘋狂滾雪球 這麼好的事怎麼沒有人告訴我 10/03開始買賣股票、ETF免手續費喔｜更新於置頂留言 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reference: TD Ameritrade</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/</link>
+      <pubDate>Sun, 06 Jun 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;官方&#34;&gt;官方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tdameritrade.com/home.html&#34;&gt;Online Stock Trading, Investing, Brokerage | TD Ameritrade&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -365,6 +425,38 @@
         
         
         
+      </description>
+    </item>
+    
+    <item>
+      <title>Reference: 即時報價 Real time quote</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/real-time-quotes/</link>
+      <pubDate>Sun, 06 Jun 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/real-time-quotes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;若是股票從業人員，無法從 TD Ameritrade 軟體拿到股票的即時報價，若要拿到即時報價，必須要與 TD Ameritrade 簽訂合約，向他保證自己不是股票從業人員，就可以獲得股票即時報價&lt;/p&gt;
+&lt;h2 id=&#34;設定拿到即時報價&#34;&gt;設定拿到即時報價&lt;/h2&gt;
+&lt;p&gt;在上方選擇 &lt;code&gt;Client Services&lt;/code&gt; 頁籤，選擇下拉選單的 &lt;code&gt;My Profile&lt;/code&gt; &amp;gt; &lt;code&gt;General&lt;/code&gt; 連結&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/real-time-quotes/real-time-quotes-setting-1.png&#34; alt=&#34;TD Ameritrade : 即時報價 Real-time quote&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在下方有 &lt;code&gt;Real-time quotes &amp;amp; exchange agreements&lt;/code&gt;，填入個人資料確保你的狀態是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your Status: Nonprofessional&lt;/li&gt;
+&lt;li&gt;NASDAQ: Signed&lt;/li&gt;
+&lt;li&gt;NYSE: Signed&lt;/li&gt;
+&lt;li&gt;OPRA: Signed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這樣就可以從 TD Ameritrade 軟體上獲得股票的即時報價了，不然所有報價都會有 20 分鐘的延遲&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/real-time-quotes/real-time-quotes-setting-2.png&#34; alt=&#34;TD Ameritrade : 即時報價 Real-time quote&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://invest.ameritrade.com/grid/p/site#r=jPage/cgi-bin/apps/u/AccountSettings&#34;&gt;TD Ameritrade - My Profile General&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tdameritrade.com/home.html&#34;&gt;Online Stock Trading, Investing, Brokerage | TD Ameritrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B_Q9XPXp0OA&#34;&gt;【美股開戶TD】美國券商沒有說 讓你默默賺更多錢 自動股息再投入 瘋狂滾雪球 這麼好的事怎麼沒有人告訴我 10/03開始買賣股票、ETF免手續費喔｜更新於置頂留言 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     

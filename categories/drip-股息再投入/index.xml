@@ -1,0 +1,61 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – Drip 股息再投入</title>
+    <link>https://stock-for-newbie.kejyun.com/categories/drip-%E8%82%A1%E6%81%AF%E5%86%8D%E6%8A%95%E5%85%A5/</link>
+    <description>Recent content in Drip 股息再投入 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 06 Jun 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/drip-%E8%82%A1%E6%81%AF%E5%86%8D%E6%8A%95%E5%85%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Reference: Drip 股息再投入</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/drip/</link>
+      <pubDate>Sun, 06 Jun 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/us/td-ameritrade/drip/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;td-ameritrade-設定-drip-股息再投入&#34;&gt;TD Ameritrade 設定 Drip 股息再投入&lt;/h2&gt;
+&lt;p&gt;在登入 &lt;a href=&#34;https://invest.ameritrade.com/grid/p/site#r=drip&#34;&gt;TD Ameritrade&lt;/a&gt; 後，在上方的選單選擇 &lt;code&gt;My Account（我的帳號）&lt;/code&gt;，並點選下方的 &lt;code&gt;Dividend Reinvestment（股息再投資）&lt;/code&gt; 連結&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-1.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Dividend Reinvestment（股息再投資）&lt;/code&gt; 頁面，選擇左側的 &lt;code&gt;Stock &amp;amp; ETF Dividends（股票 &amp;amp; ETF 股息）&lt;/code&gt; 頁籤&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-2.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Stock &amp;amp; ETF Dividends（股票 &amp;amp; ETF 股息）&lt;/code&gt; 頁籤，可以看到右側的 &lt;code&gt;Eligible stocks &amp;amp; ETF&lt;/code&gt; 區塊，可以看到下方的選單顯示下列訊息&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have not selected to have all of your current and future eligible stocks and ETF in DRIP&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Your current hold no stocks or ETFs eligible to be enrolled in DRIP&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Check the box above to automatically enroll any future purchases of eligible stocks en ETFs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目前沒有股票符合股息再投資，可以點選 &lt;code&gt;Eligible stocks &amp;amp; ETF&lt;/code&gt; 區塊右側的 &lt;code&gt;Edit enrollments&lt;/code&gt; 按鈕&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-3.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;勾選 &lt;code&gt;Automatically enroll ALL current and future eligible stocks and ETFs in DRIP&lt;/code&gt;，然後點選右方的 &lt;code&gt;Save&lt;/code&gt; 按鈕&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-4.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設定完成後，上方會出現 &lt;code&gt;All of your eligible current stocks/ETFs are now enrolled in DRIP, and eligible future ones will be automatically enrolled as well.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;而且下方顯示 &lt;code&gt;Automatically enroll ALL current and future eligible stocks and ETFs in DRIP.&lt;/code&gt;，這樣就表示已經設定完成股息再投入&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/drip/drip-setting-5.png&#34; alt=&#34;TD Ameritrade : Drip 設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;完成股息再投入後，所有從股票中獲得的股息，就會自動持續買入原有股票，讓資金能夠繼續進行復力投資&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://invest.ameritrade.com/grid/p/site#r=drip&#34;&gt;TD Ameritrade - Dividend Reinvestment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tdameritrade.com/home.html&#34;&gt;Online Stock Trading, Investing, Brokerage | TD Ameritrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B_Q9XPXp0OA&#34;&gt;【美股開戶TD】美國券商沒有說 讓你默默賺更多錢 自動股息再投入 瘋狂滾雪球 這麼好的事怎麼沒有人告訴我 10/03開始買賣股票、ETF免手續費喔｜更新於置頂留言 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
