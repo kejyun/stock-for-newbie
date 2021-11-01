@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 預收圈存</title>
+    <link>https://stock-for-newbie.kejyun.com/categories/%E9%A0%90%E6%94%B6%E5%9C%88%E5%AD%98/</link>
+    <description>Recent content in 預收圈存 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 01 Nov 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E9%A0%90%E6%94%B6%E5%9C%88%E5%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Reference: 預收圈存</title>
+      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/sinotrade/advance-collection/</link>
+      <pubDate>Mon, 01 Nov 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/taiwan/sinotrade/advance-collection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;當股票被政府進行處置時，則不能直接買賣股票，需要交易帳戶中有足夠現金才可以進行交易，所以在買賣股票前要先 &lt;strong&gt;預收圈存&lt;/strong&gt;，確定帳戶裡真的有這筆現金才能夠進行股票買賣&lt;/p&gt;
+&lt;h2 id=&#34;使用-永豐金大戶頭-設定預收圈存&#34;&gt;使用 &lt;code&gt;永豐金大戶頭&lt;/code&gt; 設定預收圈存&lt;/h2&gt;
+&lt;p&gt;點選右下角 &lt;code&gt;帳戶&lt;/code&gt; &amp;gt; &lt;code&gt;台股庫存總市值&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/advance-collection-1.png&#34; alt=&#34;永豐金證券預收圈存&#34;&gt;&lt;/p&gt;
+&lt;p&gt;點選 &lt;code&gt;預收款券&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/advance-collection-2.png&#34; alt=&#34;永豐金證券預收圈存&#34;&gt;&lt;/p&gt;
+&lt;p&gt;輸入 &lt;code&gt;股號或名稱&lt;/code&gt; 以及該股票的 &lt;code&gt;委託價格&lt;/code&gt; 及 &lt;code&gt;股數&lt;/code&gt;，會幫你計算出預收圈存的金額需要多少錢，送出之後會直接扣除&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/advance-collection-3.png&#34; alt=&#34;永豐金證券預收圈存&#34;&gt;&lt;/p&gt;
+&lt;p&gt;申請之後會在預收款項查詢中找到預收的款項&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/advance-collection-4.png&#34; alt=&#34;永豐金證券預收圈存&#34;&gt;&lt;/p&gt;
+&lt;p&gt;申請預收圈存之後，會直接從你的銀行帳戶中先扣除這筆錢，如果交易沒有成交才會再退回此筆款項&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/advance-collection-5.png&#34; alt=&#34;永豐金證券預收圈存&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/alert-stock-trade-0/&#34;&gt;注意股票、警示股票、處置股票、管理股票 是什麼？如何查詢、如何買賣交易(圈存方式)？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

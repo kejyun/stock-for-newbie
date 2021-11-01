@@ -5,7 +5,7 @@
     <description>Recent content in 常見問題 on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 16 May 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/tags/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
     
@@ -47,6 +47,365 @@
 &lt;li&gt;&lt;a href=&#34;https://tw.tv.yahoo.com/moneypower/5-041416777.html&#34;&gt;【大佛理財小百科】股匯雙殺 - Yahoo TV&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://tw.tv.yahoo.com/moneypower/%E8%82%A1%E5%B8%82%E7%86%B1%E6%BD%AE%E6%8E%A8%E5%8D%87%E6%96%B0%E5%8F%B0%E5%B9%A3-%E8%82%A1%E5%8C%AF%E9%BD%8A%E6%8F%9A%E5%8F%88%E4%BE%86%E4%BA%86-055811447.html&#34;&gt;股市熱潮推升新台幣 股匯齊揚又來了！&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thenewslens.com/article/150899&#34;&gt;台股大崩盤、匯市卻超淡定？後勢如何操作，專家建議一定要看懂「匯率」 - The News Lens 關鍵評論網&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Basic: EPS 每股盈餘與 PE 本益比</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/fundamentals/eps-pe/</link>
+      <pubDate>Mon, 21 Jun 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/fundamentals/eps-pe/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;每股盈餘-earnings-per-share-eps-公式&#34;&gt;每股盈餘 (Earnings Per Share, EPS) 公式&lt;/h2&gt;
+&lt;p&gt;1 股能賺多少錢&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每股盈餘(EPS) = 稅後淨利 / 普通股流通總股數&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1 股能分多少賺的錢 = 扣掉所有成本賺多少 / 賺的錢總共有多少人分&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;每股盈餘範例&#34;&gt;每股盈餘範例&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;公司&lt;/th&gt;
+&lt;th&gt;稅後淨利（扣掉成本賺多少）&lt;/th&gt;
+&lt;th&gt;流通股數（有多少人分）&lt;/th&gt;
+&lt;th&gt;EPS(一股賺多少)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;400&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A 與 C 一股能賺 10 元，A 與 C 的賺錢能力是一樣的&lt;/p&gt;
+&lt;p&gt;B 與 D 一股能賺 5 元，B 與 D 的賺錢能力是一樣的&lt;/p&gt;
+&lt;p&gt;但 A 與 C 的賺錢能力大於 B 與 D，買一股 A(C) 的股票，他能幫我賺 10 元，但買一股 B(D) 的股票，他只能幫我賺 5 元&lt;/p&gt;
+&lt;p&gt;但雖然 A(C) 一股的賺錢能力高於 B(D)，但若要買到一股的成本不一樣，投資回報率會不一樣&lt;/p&gt;
+&lt;h2 id=&#34;每股盈餘與每股股價&#34;&gt;每股盈餘與每股股價&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;公司&lt;/th&gt;
+&lt;th&gt;稅後淨利（扣掉成本賺多少）&lt;/th&gt;
+&lt;th&gt;流通股數（有多少人分）&lt;/th&gt;
+&lt;th&gt;EPS(一股賺多少)&lt;/th&gt;
+&lt;th&gt;每股股價&lt;/th&gt;
+&lt;th&gt;投資回報率&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;400&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A 公司買一股需要 100 元，一股可以賺 10 元，表示投資回報率為 10%&lt;/p&gt;
+&lt;p&gt;B 公司買一股需要 50 元，一股可以賺 5 元，表示投資回報率為 10%&lt;/p&gt;
+&lt;p&gt;A 與 B 的投資回報率是一樣的，所以買 A 與買 B 都可以賺到 10% 的回報&lt;/p&gt;
+&lt;p&gt;C 公司買一股需要 50 元，一股可以賺 10 元，表示投資回報率為 20%&lt;/p&gt;
+&lt;p&gt;D 公司買一股需要 10 元，一股可以賺 5 元，表示投資回報率為 50%&lt;/p&gt;
+&lt;p&gt;D 是最賺錢的公司，因為只需要付出 10 元，但 D 公司可以賺 5 元回來給股東，付出最少，賺最多&lt;/p&gt;
+&lt;!--adsense--&gt;
+&lt;h2 id=&#34;本益比price-earnings-pe-公式&#34;&gt;本益比(Price Earnings, PE) 公式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本益比 = 股價 / EPS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;花多少年能回本 = 1 股要花多少錢買 / 1 股能分多少賺的錢&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;本益比範例&#34;&gt;本益比範例&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;公司&lt;/th&gt;
+&lt;th&gt;稅後淨利（扣掉成本賺多少）&lt;/th&gt;
+&lt;th&gt;流通股數（有多少人分）&lt;/th&gt;
+&lt;th&gt;EPS(一股賺多少)&lt;/th&gt;
+&lt;th&gt;每股股價(一股要花多少錢買)&lt;/th&gt;
+&lt;th&gt;投資回報率&lt;/th&gt;
+&lt;th&gt;本益比&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;400&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A 公司的本益比為 10，表示需要花 10 年能夠賺回本金，投資回報率為 10%，投資滿 10 年回報率能到 100%&lt;/p&gt;
+&lt;p&gt;B 公司的本益比為 10，表示需要花 10 年能夠賺回本金，投資回報率為 10%，投資滿 10 年回報率能到 100%&lt;/p&gt;
+&lt;p&gt;A 與 B 的本益比是相同的，所以回本的年數也是相同的&lt;/p&gt;
+&lt;p&gt;C 公司的本益比為 5，表示需要花 5 年能夠賺回本金，投資回報率為 20%，投資滿 5 年回報率能到 100%&lt;/p&gt;
+&lt;p&gt;D 公司的本益比為 2，表示需要花 2 年能夠賺回本金，投資回報率為 50%，投資滿 2 年回報率能到 100%&lt;/p&gt;
+&lt;p&gt;D 是最賺錢的公司，投資後，2 年後就能賺回原本的本金&lt;/p&gt;
+&lt;p&gt;可以看到 &lt;code&gt;本益比(PE)&lt;/code&gt; 與 &lt;code&gt;投資回報率&lt;/code&gt; 是相對的概念&lt;/p&gt;
+&lt;h2 id=&#34;本益比與回報率關係&#34;&gt;本益比與回報率關係&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;投資回報率 = 1 / 本益比&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;本益比&lt;/th&gt;
+&lt;th&gt;回報率&lt;/th&gt;
+&lt;th&gt;本益比&lt;/th&gt;
+&lt;th&gt;回報率&lt;/th&gt;
+&lt;th&gt;本益比&lt;/th&gt;
+&lt;th&gt;回報率&lt;/th&gt;
+&lt;th&gt;本益比&lt;/th&gt;
+&lt;th&gt;回報率&lt;/th&gt;
+&lt;th&gt;本益比&lt;/th&gt;
+&lt;th&gt;回報率&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;100.00%&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;9.09%&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;4.76%&lt;/td&gt;
+&lt;td&gt;31&lt;/td&gt;
+&lt;td&gt;3.23%&lt;/td&gt;
+&lt;td&gt;41&lt;/td&gt;
+&lt;td&gt;2.44%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;50.00%&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;8.33%&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;4.55%&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;td&gt;3.13%&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;2.38%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;33.33%&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;7.69%&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;4.35%&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;td&gt;3.03%&lt;/td&gt;
+&lt;td&gt;43&lt;/td&gt;
+&lt;td&gt;2.33%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;25.00%&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;7.14%&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;4.17%&lt;/td&gt;
+&lt;td&gt;34&lt;/td&gt;
+&lt;td&gt;2.94%&lt;/td&gt;
+&lt;td&gt;44&lt;/td&gt;
+&lt;td&gt;2.27%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;20.00%&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;6.67%&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;4.00%&lt;/td&gt;
+&lt;td&gt;35&lt;/td&gt;
+&lt;td&gt;2.86%&lt;/td&gt;
+&lt;td&gt;45&lt;/td&gt;
+&lt;td&gt;2.22%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;16.67%&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;6.25%&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;3.85%&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;2.78%&lt;/td&gt;
+&lt;td&gt;46&lt;/td&gt;
+&lt;td&gt;2.17%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;14.29%&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;5.88%&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;3.70%&lt;/td&gt;
+&lt;td&gt;37&lt;/td&gt;
+&lt;td&gt;2.70%&lt;/td&gt;
+&lt;td&gt;47&lt;/td&gt;
+&lt;td&gt;2.13%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;12.50%&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;5.56%&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;3.57%&lt;/td&gt;
+&lt;td&gt;38&lt;/td&gt;
+&lt;td&gt;2.63%&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;2.08%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;11.11%&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;5.26%&lt;/td&gt;
+&lt;td&gt;29&lt;/td&gt;
+&lt;td&gt;3.45%&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;2.56%&lt;/td&gt;
+&lt;td&gt;49&lt;/td&gt;
+&lt;td&gt;2.04%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;10.00%&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;5.00%&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;3.33%&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;2.50%&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;2.00%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;若以通膨 2% 來計算，本益比大於 50 的話等於是連 2% 的通膨都賺不回來&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/what-is-eps/#EPS%E5%8E%BB%E5%93%AA%E8%A3%A1%E6%9F%A5?&#34;&gt;EPS是什麼？每股盈餘EPS高低代表什麼意義 - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/pe-ratio-basic/&#34;&gt;一分鐘看懂本益比》如何用本益比找出便宜股票 - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RAqNS5546vA&#34;&gt;如何在30分鐘從0分析股票??? 基本股票分析 終極懶人包 ｜小楠投資學堂 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Basic: 基本面</title>
+      <link>https://stock-for-newbie.kejyun.com/basic/fundamentals/</link>
+      <pubDate>Mon, 21 Jun 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/basic/fundamentals/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;基本面查詢網站&#34;&gt;基本面查詢網站&lt;/h2&gt;
+&lt;h3 id=&#34;美股&#34;&gt;美股&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hk.finance.yahoo.com/&#34;&gt;Yahoo Finance HK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.morningstar.com/&#34;&gt;Morningstar | Empowering Investor Success&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://financials.morningstar.com/ratios/r.html?t=AAPL&amp;amp;region=usa&amp;amp;culture=en-US&#34;&gt;Apple Inc (AAPL) | Morningstar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;台股&#34;&gt;台股&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goodinfo.tw/StockInfo/index.asp&#34;&gt;Goodinfo!台灣股市資訊網&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cmoney.tw/finance/&#34;&gt;CMoney&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
