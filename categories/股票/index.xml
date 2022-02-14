@@ -5,7 +5,7 @@
     <description>Recent content in 股票 on 股票韭菜雞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 01 Nov 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Feb 2022 00:11:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://stock-for-newbie.kejyun.com/categories/%E8%82%A1%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" />
     
@@ -282,6 +282,39 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.tdameritrade.com/&#34;&gt;TD Ameritrade 德美利證券&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.firstrade.com/content/zh-tw/welcome&#34;&gt;Firstrade 第一證券&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Advanced: 殖利率估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/dividends/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/dividends/</guid>
+      <description>
+        
+        
+        &lt;p&gt;適合股息股，有穩定市場及配息的公司&lt;/p&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;h3 id=&#34;確認個股每年配息狀況相對高低點&#34;&gt;確認個股每年配息狀況相對高低點&lt;/h3&gt;
+&lt;p&gt;到 Seeking Alpha 找你要找的標的並點選 &lt;code&gt;Dividends (配息)&lt;/code&gt;，再點選 &lt;code&gt;Dividend Yield (股息率)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-dividends-1.png&#34; alt=&#34;殖利率估價&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在下方確認近幾年的股息殖利率狀況，看有沒有達到自己預期的股息殖利率低標以上，&lt;/p&gt;
+&lt;p&gt;假如預期殖利率是 7%，那可以劃出一條 7% 殖利率的低標線，當殖利率高於 7% 時表示該年股價相對較低，是買入好時機&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;殖利率 = 股息 / 股價&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;在同樣配息狀況下&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;股價高 =&amp;gt; 殖利率低&lt;/li&gt;
+&lt;li&gt;股價低 =&amp;gt; 殖利率高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-dividends-2.png&#34; alt=&#34;殖利率估價&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://seekingalpha.com/&#34;&gt;Seeking Alpha | Stock Market Analysis &amp;amp; Tools for Investors&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -724,6 +757,76 @@
 &lt;li&gt;&lt;a href=&#34;https://open.spotify.com/show/3dTKJkvceKNHaYoh7Przbg?si=pEt-PlPfTvuWb2n6FYD-sA&#34;&gt;美股投資學－財女Jenny | Podcast on Spotify&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Advanced: 估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;護城河投資法&#34;&gt;護城河投資法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;尋找擁有護城河，能長期創造平均水準以上獲利的企業&lt;/li&gt;
+&lt;li&gt;耐心等，等待企業股價低於內在價值(估價)，再買進&lt;/li&gt;
+&lt;li&gt;持續持有股票(以年計算)，直到股價高估營運狀況轉差，或是找到更好的標的&lt;/li&gt;
+&lt;li&gt;好公司股價跌下來也不是要一次 All in，在低於合理價格時分批慢慢買&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;p&gt;估價目標是用來判斷企業內部價值，判斷現在股價是高估還是低估，在低估的時候買入&lt;/p&gt;
+&lt;h3 id=&#34;保守型投資人股息股&#34;&gt;保守型投資人：股息股&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;找高配息的股票或 etf&lt;/li&gt;
+&lt;li&gt;殖利率估價 (&lt;code&gt;殖利率 &amp;gt; 4%&lt;/code&gt; 或 &lt;code&gt;高於你的目標 % 數&lt;/code&gt; 買入)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;積極型投資人成長股&#34;&gt;積極型投資人：成長股&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;找業績、EPS 持續成長的公司、ETF&lt;/li&gt;
+&lt;li&gt;PEG 估價 (算出合理價，當 &lt;code&gt;股價 &amp;lt; 合理價&lt;/code&gt; 時買入)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=01Sxm3NFAJg&amp;amp;list=WL&#34;&gt;EP112 護城河投資 估價的藝術(卡爾先生)20220213 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: Seeking Alpha</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/stock/seeking-alpha/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/stock/seeking-alpha/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+&lt;p&gt;前往 &lt;a href=&#34;https://seekingalpha.com/&#34;&gt;Seeking Alpha&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/seeking-alpha-0.png&#34; alt=&#34;Seeking Alpha&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://seekingalpha.com/&#34;&gt;Seeking Alpha | Stock Market Analysis &amp;amp; Tools for Investors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: 技術分析</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/technical/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/technical/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     
@@ -1312,6 +1415,331 @@
     </item>
     
     <item>
+      <title>Advanced: PEG 估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/peg/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/peg/</guid>
+      <description>
+        
+        
+        &lt;p&gt;適合成長股的估價方式&lt;/p&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合理價格：EPS(近 12 個月) * EPS 年化成長率(取 EPS 平均 3、5、10 年最低值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;1-看個過去股財報&#34;&gt;1. 看個過去股財報&lt;/h3&gt;
+&lt;p&gt;到 &lt;a href=&#34;(https://www.morningstar.com/)&#34;&gt;Morningstar&lt;/a&gt; 找尋要分析的個股，在個股頁面點選 &lt;code&gt;Key Ratio / Full Key Ratio Data&lt;/code&gt; 可以看到近 10 幾年過去的財報&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-1.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-確認-epsearning-per-share-是成長的&#34;&gt;2. 確認 EPS(Earning Per Share) 是成長的&lt;/h3&gt;
+&lt;p&gt;看財報的 &lt;code&gt;Earnings Per Share (EPS)&lt;/code&gt; 確認是否是每年都是成長的，若是成長的才確認是成長股&lt;/p&gt;
+&lt;p&gt;確認過去 12 個 EPS 的 TTM 數字為 &lt;code&gt;13.77&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-2.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-檢視過去-3510-年的-eps-狀況&#34;&gt;3. 檢視過去 3、5、10 年的 EPS 狀況&lt;/h3&gt;
+&lt;p&gt;在 Key Ratios 區塊點選 &lt;code&gt;Growth&lt;/code&gt; 頁籤，在下方可以看到 &lt;code&gt;EPS %&lt;/code&gt; 表，可以看最新一年的 3、5、10 年的 EPS 狀況&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;年分&lt;/th&gt;
+&lt;th&gt;EPS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3 年&lt;/td&gt;
+&lt;td&gt;22.07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 年&lt;/td&gt;
+&lt;td&gt;31.59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10 年&lt;/td&gt;
+&lt;td&gt;41.43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;取 EPS 平均 3、5、10 年中的 &lt;code&gt;最低值&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4-評估價格是否合理&#34;&gt;4. 評估價格是否合理&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合理價格：EPS(近 12 個月) * EPS 年化成長率(取 EPS 平均 3、5、10 年最低值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;合理價格：&lt;code&gt;13.77&lt;/code&gt; * &lt;code&gt;22.07&lt;/code&gt; = &lt;code&gt;303.9&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;類型&lt;/th&gt;
+&lt;th&gt;價格&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;合理價格&lt;/td&gt;
+&lt;td&gt;303.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;目前價格 (2022-02-11)&lt;/td&gt;
+&lt;td&gt;219.55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-3.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;5-本益比河流圖確認&#34;&gt;5. 本益比河流圖確認&lt;/h3&gt;
+&lt;p&gt;到 &lt;a href=&#34;https://statementdog.com/&#34;&gt;財報狗&lt;/a&gt; 網站搜尋個股，看到個股的 &lt;code&gt;本益比河流圖&lt;/code&gt; (需登入)&lt;/p&gt;
+&lt;p&gt;中間紅線為目前股價，當股價接近 &lt;code&gt;本益比河流圖下面&lt;/code&gt; 的話，表示股價是便宜的，會考慮買股票&lt;/p&gt;
+&lt;p&gt;當股價接近 &lt;code&gt;本益比河流圖上面&lt;/code&gt; 的話，表示股價是貴的，會考慮賣股票&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-4.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;6-買入賣出策略&#34;&gt;6. 買入賣出策略&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;目前價格 &amp;lt; 合理價格：&lt;code&gt;價格過低，適合逢低購買&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;目前價格 &amp;gt; 合理價格：&lt;code&gt;價格過高，適合賣出持股&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以 &lt;code&gt;目前價格(219.55)&lt;/code&gt; 低於 &lt;code&gt;合理價格(303.9)&lt;/code&gt; ，以及 &lt;code&gt;本益比河流圖在低點&lt;/code&gt; 的話，是適合逢低購買的&lt;/p&gt;
+&lt;p&gt;但還是要考慮未來的前景狀況，因為這個評估狀況是基於過去的資料，要確定未來公司在市場上的競爭力及賺錢能力都能夠優於過去，那對未來的股價來說，目前價格才是低於合理價格&lt;/p&gt;
+&lt;p&gt;若未來公司的成長性及賺錢能力不如以前，那麼合理價格就會不斷的下修，所以還是要自行評估&lt;/p&gt;
+&lt;p&gt;看股價不要看絕對金額，不是 5 年前的 100 塊，而現在 200 就代表很貴，企業不斷成長，內在價值也會不斷成長&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=01Sxm3NFAJg&#34;&gt;EP112 護城河投資 估價的藝術(卡爾先生)20220213 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.morningstar.com/&#34;&gt;Morningstar | Empowering Investor Success&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://statementdog.com/&#34;&gt;財報狗-穩健的報酬，更悠閒的生活&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: Morningstar</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/stock/morningstar/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/stock/morningstar/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+&lt;p&gt;前往 &lt;a href=&#34;https://www.morningstar.com/&#34;&gt;Morningstar&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/morningstar-0.png&#34; alt=&#34;Morningstar&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.morningstar.com/&#34;&gt;Morningstar | Empowering Investor Success&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: 本益比河流圖</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/technical/price-to-earning-ratio-river/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/technical/price-to-earning-ratio-river/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;images/price-to-earning-ratio-river-0.png&#34; alt=&#34;本益比河流圖&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用時機&#34;&gt;使用時機&lt;/h2&gt;
+&lt;p&gt;如果企業的獲利穩定，則投資人常會發現股價固定在一定的本益比之間漲跌。利用本益比河流圖，投資人可以看出每股盈餘的成長趨勢，同時透過歷史PE倍數數據區間，股價是否過高過低。&lt;/p&gt;
+&lt;p&gt;如果股價來到本益比河流圖越下方，代表股價來到一段時間內的本益比低點，潛在報酬率較高&lt;/p&gt;
+&lt;p&gt;如果股價來到本益比河流圖越上方，代表股價來到一段時間內的本益比高點，潛在報酬率較低。&lt;/p&gt;
+&lt;h3 id=&#34;適合的股票&#34;&gt;適合的股票&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;適合成長、獲利穩定的股票&lt;/li&gt;
+&lt;li&gt;在產業間屬於領導型的股票&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;不適合的股票&#34;&gt;不適合的股票&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;不適用變動太大、獲利不穩定的股票&lt;/li&gt;
+&lt;li&gt;景氣循環股&lt;/li&gt;
+&lt;li&gt;快速成長股&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;本益比公式&#34;&gt;本益比公式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本益比 = 股價 ÷ EPS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;股價 = EPS × 本益比&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;本益比河流圖數值&#34;&gt;本益比河流圖數值&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;EPS × 預估最高本益比(歷史最高)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;EPS × 預估最低本益比(歷史最低)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;以台積電舉例&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/price-to-earning-ratio-river-1.png&#34; alt=&#34;本益比河流圖&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;屬性&lt;/th&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;近四季 EPS&lt;/td&gt;
+&lt;td&gt;22.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;最低本益比&lt;/td&gt;
+&lt;td&gt;14.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;最高本益比&lt;/td&gt;
+&lt;td&gt;31.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;22.1 x 31.8 = 702.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;22.1 x 14.7 = 324.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;將 &lt;code&gt;河流上緣股價&lt;/code&gt; 與 &lt;code&gt;河流下緣股價&lt;/code&gt; 切分成 6 份 5 個區塊，分別可以得到 &lt;code&gt;14.7&lt;/code&gt;、&lt;code&gt;18.1&lt;/code&gt;、&lt;code&gt;21.5&lt;/code&gt;、&lt;code&gt;25.0&lt;/code&gt;、&lt;code&gt;28.4&lt;/code&gt; 及 &lt;code&gt;31.8&lt;/code&gt; 倍的本益比&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;屬性&lt;/th&gt;
+&lt;th&gt;本益比倍數&lt;/th&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;31.8&lt;/td&gt;
+&lt;td&gt;22.1 x 31.8 = 702.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 2 層股價&lt;/td&gt;
+&lt;td&gt;28.4&lt;/td&gt;
+&lt;td&gt;22.1 x 28.4 = 627.64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 3 層股價&lt;/td&gt;
+&lt;td&gt;25.0&lt;/td&gt;
+&lt;td&gt;22.1 x 25.0 = 552.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 4 層股價&lt;/td&gt;
+&lt;td&gt;21.5&lt;/td&gt;
+&lt;td&gt;22.1 x 21.5 = 475.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 5 層股價&lt;/td&gt;
+&lt;td&gt;18.1&lt;/td&gt;
+&lt;td&gt;22.1 x 18.1 = 400.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;14.7&lt;/td&gt;
+&lt;td&gt;22.1 x 14.7 = 324.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;這樣就可以得到目前的本益比河流圖的數值了&lt;/p&gt;
+&lt;h2 id=&#34;投資策略&#34;&gt;投資策略&lt;/h2&gt;
+&lt;h3 id=&#34;1-最新股價位於河流圖區間狀況&#34;&gt;1. 最新股價位於河流圖區間狀況&lt;/h3&gt;
+&lt;p&gt;中間紅線為目前股價，當股價接近 &lt;code&gt;本益比河流下緣股價&lt;/code&gt; 的話，表示股價是便宜的，可以考慮買入&lt;/p&gt;
+&lt;p&gt;當股價接近 &lt;code&gt;本益比河流上緣股價&lt;/code&gt; 的話，表示股價是貴的，可以考慮賣出&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;屬性&lt;/th&gt;
+&lt;th&gt;狀況&lt;/th&gt;
+&lt;th&gt;本益比倍數&lt;/th&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;警告&lt;/td&gt;
+&lt;td&gt;31.8&lt;/td&gt;
+&lt;td&gt;22.1 x 31.8 = 702.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 2 層股價&lt;/td&gt;
+&lt;td&gt;高估&lt;/td&gt;
+&lt;td&gt;28.4&lt;/td&gt;
+&lt;td&gt;22.1 x 28.4 = 627.64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 3 層股價&lt;/td&gt;
+&lt;td&gt;觀望&lt;/td&gt;
+&lt;td&gt;25.0&lt;/td&gt;
+&lt;td&gt;22.1 x 25.0 = 552.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 4 層股價&lt;/td&gt;
+&lt;td&gt;合理&lt;/td&gt;
+&lt;td&gt;21.5&lt;/td&gt;
+&lt;td&gt;22.1 x 21.5 = 475.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 5 層股價&lt;/td&gt;
+&lt;td&gt;價值&lt;/td&gt;
+&lt;td&gt;18.1&lt;/td&gt;
+&lt;td&gt;22.1 x 18.1 = 400.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;低估&lt;/td&gt;
+&lt;td&gt;14.7&lt;/td&gt;
+&lt;td&gt;22.1 x 14.7 = 324.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;images/price-to-earning-ratio-river-0.png&#34; alt=&#34;本益比河流圖&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-河流是往上還是往下&#34;&gt;2. 河流是往上還是往下&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;河流狀況&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流圖上升&lt;/td&gt;
+&lt;td&gt;公司獲利成長&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流圖持平&lt;/td&gt;
+&lt;td&gt;公司獲利持穩或停滯&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流圖下降&lt;/td&gt;
+&lt;td&gt;公司獲利衰退&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/price-to-earning-ratio-river/&#34;&gt;本益比河流圖怎麼看？如何用來選股？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Investment-Target: VOO 美國前 500 大市值股票</title>
       <link>https://stock-for-newbie.kejyun.com/investment-target/us-etf/voo/</link>
       <pubDate>Mon, 26 Apr 2021 08:50:29 +0800</pubDate>
@@ -1350,6 +1778,19 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.moneydj.com/ETF/X/Basic/Basic0004.xdjhtm?etfid=VOO&#34;&gt;https://www.moneydj.com/ETF/X/Basic/Basic0004.xdjhtm?etfid=VOO&lt;/a&gt;&lt;/p&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: 分析</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     
@@ -1548,6 +1989,57 @@
     </item>
     
     <item>
+      <title>Analysis: 本淨比河流圖</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/technical/what-is-price-book-ratio/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/technical/what-is-price-book-ratio/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;適合標的&#34;&gt;適合標的&lt;/h2&gt;
+&lt;h3 id=&#34;重資產公司&#34;&gt;重資產公司&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;需要投入大量資本的公司，週期性的行業&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;鋼鐵業&lt;/li&gt;
+&lt;li&gt;航空業&lt;/li&gt;
+&lt;li&gt;船運業&lt;/li&gt;
+&lt;li&gt;造船業&lt;/li&gt;
+&lt;li&gt;石油業&lt;/li&gt;
+&lt;li&gt;挖金銀銅鐵公司&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://earning.tw/what-is-price-book-ratio/&#34;&gt;股價淨值比介紹：股價淨值比河流圖怎麼用？讓你3分鐘找出合理價 - 懶人經濟學&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: 財報狗</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/stock/statementdog/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/stock/statementdog/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+&lt;p&gt;前往 &lt;a href=&#34;https://statementdog.com/&#34;&gt;財報狗&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/statementdog-0.png&#34; alt=&#34;財報狗&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://statementdog.com/&#34;&gt;財報狗 | Stock Market Analysis &amp;amp; Tools for Investors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Investment-Target: VTI 美國市場股票</title>
       <link>https://stock-for-newbie.kejyun.com/investment-target/us-etf/vti/</link>
       <pubDate>Mon, 26 Apr 2021 08:50:29 +0800</pubDate>
@@ -1673,6 +2165,27 @@
     </item>
     
     <item>
+      <title>Analysis: Goodinfo!台灣股市資訊網</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/stock/goodinfo/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/stock/goodinfo/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+&lt;p&gt;前往 &lt;a href=&#34;https://goodinfo.tw/tw/index.asp&#34;&gt;Goodinfo!台灣股市資訊網&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/goodinfo-0.png&#34; alt=&#34;Goodinfo&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goodinfo.tw/tw/index.asp&#34;&gt;Goodinfo!台灣股市資訊網-首頁&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Question: 外資</title>
       <link>https://stock-for-newbie.kejyun.com/question/foreign-investors/</link>
       <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
@@ -1786,1201 +2299,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.etfreplay.com/&#34;&gt;ETFreplay - Analysis &amp;amp; Backtesting Tools for ETF Investing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-      </description>
-    </item>
-    
-    <item>
-      <title>Reference: Google 財經</title>
-      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/</link>
-      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/google-finance/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;./images/google-finance-home-cover.png&#34; alt=&#34;Google 財經&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;支援平台&#34;&gt;支援平台&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;語系&#34;&gt;語系&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;繁體中文&lt;/li&gt;
-&lt;li&gt;English&lt;/li&gt;
-&lt;li&gt;其他 Google 支援語言&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;功能&#34;&gt;功能&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;自訂觀察清單&lt;/li&gt;
-&lt;li&gt;股票相關新聞&lt;/li&gt;
-&lt;li&gt;股票基本資料查詢&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;相關資料&#34;&gt;相關資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/&#34;&gt;Google 財經 - 股市價格、即時報價與商業新聞&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Investment-Target: 台股</title>
-      <link>https://stock-for-newbie.kejyun.com/investment-target/taiwan/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/investment-target/taiwan/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Investment-Target: 台股 ETF</title>
-      <link>https://stock-for-newbie.kejyun.com/investment-target/taiwan-etf/</link>
-      <pubDate>Mon, 26 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/investment-target/taiwan-etf/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;etf-比較&#34;&gt;ETF 比較&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;股票代號&lt;/th&gt;
-&lt;th&gt;名稱&lt;/th&gt;
-&lt;th&gt;投資目標&lt;/th&gt;
-&lt;th&gt;管理費用&lt;/th&gt;
-&lt;th&gt;配息頻率&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;./0050/&#34;&gt;0050&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;元大台灣卓越 50 基金&lt;/td&gt;
-&lt;td&gt;台灣前 50 大市值股票&lt;/td&gt;
-&lt;td&gt;0.43%&lt;/td&gt;
-&lt;td&gt;半年配&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;./006208/&#34;&gt;006208&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;富邦台灣釆吉 50 基金&lt;/td&gt;
-&lt;td&gt;台灣前 50 大市值股票&lt;/td&gt;
-&lt;td&gt;0.34%&lt;/td&gt;
-&lt;td&gt;半年配&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;./00692/&#34;&gt;00692&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;富邦臺灣公司治理 100 基金&lt;/td&gt;
-&lt;td&gt;台灣公司治理前 100 大股票&lt;/td&gt;
-&lt;td&gt;0.35%&lt;/td&gt;
-&lt;td&gt;半年配&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Basic: 買權賣權</title>
-      <link>https://stock-for-newbie.kejyun.com/basic/put-call/</link>
-      <pubDate>Sun, 16 May 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/basic/put-call/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;買權-call-option&#34;&gt;買權 (call option)&lt;/h2&gt;
-&lt;p&gt;看多看好整個市場，覺得股票會上漲&lt;/p&gt;
-&lt;h2 id=&#34;賣權put-option&#34;&gt;賣權（put option）&lt;/h2&gt;
-&lt;p&gt;看空看壞整個市場，覺得股票會下跌&lt;/p&gt;
-&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tw.blog.voicetube.com/archives/56521/%E3%80%90%E8%B2%A1%E7%B6%93%E8%8B%B1%E6%96%87%E3%80%9110-%E5%88%86%E9%90%98%E6%95%99%E4%BD%A0%E5%9F%BA%E6%9C%AC%E5%96%AE%E5%AD%97%EF%BC%8C%E9%82%84%E8%AE%93%E4%BD%A0%E9%81%B8%E8%82%A1-level/&#34;&gt;【財經英文】10 分鐘教你基本單字，還讓你選股 level up !!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Reference: 富途牛牛</title>
-      <link>https://stock-for-newbie.kejyun.com/reference/stock-app/futunn/</link>
-      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/reference/stock-app/futunn/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;./images/futunn-official-cover.png&#34; alt=&#34;富途牛牛&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;支援平台&#34;&gt;支援平台&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/iphone&#34;&gt;iPhone / iPad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/android&#34;&gt;Android / Tablet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/mac&#34;&gt;Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/windows&#34;&gt;Windows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/OpenAPI&#34;&gt;OpenAPI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;語系&#34;&gt;語系&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;繁體中文&lt;/li&gt;
-&lt;li&gt;簡體中文&lt;/li&gt;
-&lt;li&gt;English&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/&#34;&gt;富途牛牛 - 港股 美股 A股報價&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/finance/quote/FUTU:NASDAQ&#34;&gt;富途證券國際(香港)有限公司 (FUTU：NASDAQ) 股價與新聞 - Google 財經&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futuholdings.com/zh-hk/&#34;&gt;FUTU | Futu Holdings Limited 富途控股 | 領先的數字化金融科技集團&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Basic: 名詞翻譯</title>
-      <link>https://stock-for-newbie.kejyun.com/basic/resource/translate/</link>
-      <pubDate>Wed, 19 May 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/basic/resource/translate/</guid>
-      <description>
-        
-        
-        &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;中文&lt;/th&gt;
-&lt;th&gt;英文&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;股市&lt;/td&gt;
-&lt;td&gt;stock market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股票&lt;/td&gt;
-&lt;td&gt;stock&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;漲&lt;/td&gt;
-&lt;td&gt;go up / rise&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;跌&lt;/td&gt;
-&lt;td&gt;go down / fall / decline / depreciate&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;暴漲&lt;/td&gt;
-&lt;td&gt;rise suddenly / jump / boom / soar / skyrocket&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;暴跌&lt;/td&gt;
-&lt;td&gt;take a nose dive / collapse / slump / drop sharply&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;牛市&lt;/td&gt;
-&lt;td&gt;bull market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;熊市&lt;/td&gt;
-&lt;td&gt;bear market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;漲停&lt;/td&gt;
-&lt;td&gt;limit up&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;跌停&lt;/td&gt;
-&lt;td&gt;limit down&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;減資&lt;/td&gt;
-&lt;td&gt;capital reduction&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;增資&lt;/td&gt;
-&lt;td&gt;capital increase&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;開盤價&lt;/td&gt;
-&lt;td&gt;opening price&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;收盤價&lt;/td&gt;
-&lt;td&gt;closing price&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;停損點&lt;/td&gt;
-&lt;td&gt;stop loss point&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;毛利&lt;/td&gt;
-&lt;td&gt;gross profit&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;營業收入&lt;/td&gt;
-&lt;td&gt;operating revenue&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;營業成本&lt;/td&gt;
-&lt;td&gt;operating cost&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;營業利益&lt;/td&gt;
-&lt;td&gt;operating income&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;營業費用&lt;/td&gt;
-&lt;td&gt;operating expense&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;稅前淨利&lt;/td&gt;
-&lt;td&gt;net income before tax&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;業外收入&lt;/td&gt;
-&lt;td&gt;non-operating revenue&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;業外支出&lt;/td&gt;
-&lt;td&gt;non-operating expense&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;稅後淨利 / 盈餘&lt;/td&gt;
-&lt;td&gt;net income after tax&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;稅後淨利 / 盈餘&lt;/td&gt;
-&lt;td&gt;net income after tax&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;賣權(看空、看壞)&lt;/td&gt;
-&lt;td&gt;put option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;買權(看多、看好)&lt;/td&gt;
-&lt;td&gt;call option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;盤後交易&lt;/td&gt;
-&lt;td&gt;after-hours trading&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;美國信託存證&lt;/td&gt;
-&lt;td&gt;American depositary receipt (ADR)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券化資產&lt;/td&gt;
-&lt;td&gt;asset-based securities&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;平衡型基金&lt;/td&gt;
-&lt;td&gt;balanced fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;逢低承接（股票）&lt;/td&gt;
-&lt;td&gt;bargain hunting&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;組合型認購權證&lt;/td&gt;
-&lt;td&gt;basket warrant&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;受益憑證&lt;/td&gt;
-&lt;td&gt;beneficiary certificates&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;績優公司&lt;/td&gt;
-&lt;td&gt;blue-chip companies&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;債券型基金&lt;/td&gt;
-&lt;td&gt;bond fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;公債殖利率&lt;/td&gt;
-&lt;td&gt;bond yield&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;淨值&lt;/td&gt;
-&lt;td&gt;book value&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;底部進場（股票）&lt;/td&gt;
-&lt;td&gt;bottom fishing&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券交易所&lt;/td&gt;
-&lt;td&gt;bourse&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券經紀公司&lt;/td&gt;
-&lt;td&gt;brokerage firm&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;買入選擇權（股票）&lt;/td&gt;
-&lt;td&gt;call&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;買入選擇權（做多選擇權）&lt;/td&gt;
-&lt;td&gt;call option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;做多認股權証&lt;/td&gt;
-&lt;td&gt;call warrant&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;可買回債券&lt;/td&gt;
-&lt;td&gt;callable loan&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;資本利得&lt;/td&gt;
-&lt;td&gt;capital gains&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;保本型基金&lt;/td&gt;
-&lt;td&gt;capital guaranteed fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;增資&lt;/td&gt;
-&lt;td&gt;capital increment&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;資本融資&lt;/td&gt;
-&lt;td&gt;capital lease&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;資本市場&lt;/td&gt;
-&lt;td&gt;capital market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;資本公積&lt;/td&gt;
-&lt;td&gt;capital reserves&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;資金積壓套牢&lt;/td&gt;
-&lt;td&gt;capital tied-up&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;帳面價值&lt;/td&gt;
-&lt;td&gt;carrying value&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;現金股利&lt;/td&gt;
-&lt;td&gt;cash dividend&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;現金交割&lt;/td&gt;
-&lt;td&gt;cash settlement&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;巨災債券&lt;/td&gt;
-&lt;td&gt;catastrophe bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;平倉&lt;/td&gt;
-&lt;td&gt;close a position&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;封閉式基金&lt;/td&gt;
-&lt;td&gt;closed-end fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券化債權&lt;/td&gt;
-&lt;td&gt;collateralized debt obligation (CDOs)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;反市場操作的投資人&lt;/td&gt;
-&lt;td&gt;contrarian&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;轉換溢價&lt;/td&gt;
-&lt;td&gt;conversion premium&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;轉換價&lt;/td&gt;
-&lt;td&gt;conversion price&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;可轉換公司債&lt;/td&gt;
-&lt;td&gt;convertible bonds&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;公司債&lt;/td&gt;
-&lt;td&gt;corporate bond (debenture)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;修正（股市）&lt;/td&gt;
-&lt;td&gt;correction&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;崩盤（股市）&lt;/td&gt;
-&lt;td&gt;crash&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;交叉持股&lt;/td&gt;
-&lt;td&gt;cross-shareholding&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;流動比率&lt;/td&gt;
-&lt;td&gt;current ratio&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;道瓊工業指數&lt;/td&gt;
-&lt;td&gt;Dow Jones Industrial Average&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;道瓊台股指數期貨&lt;/td&gt;
-&lt;td&gt;Dow Jones Taiwan stock index futures&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;道瓊台股指數選擇權&lt;/td&gt;
-&lt;td&gt;Dow Jones Taiwan stock index options&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;每日交易限制&lt;/td&gt;
-&lt;td&gt;daily trading limit&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;當日沖銷客&lt;/td&gt;
-&lt;td&gt;day trader&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;短期債券&lt;/td&gt;
-&lt;td&gt;debenture&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;下市&lt;/td&gt;
-&lt;td&gt;delisting&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;交割日&lt;/td&gt;
-&lt;td&gt;delivery date&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;衍生性商品（金融）&lt;/td&gt;
-&lt;td&gt;derivative&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;單純放空或做多&lt;/td&gt;
-&lt;td&gt;directional trading&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;代客操作&lt;/td&gt;
-&lt;td&gt;discretionary account operation&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;定期定額投資&lt;/td&gt;
-&lt;td&gt;dollar averaging (or dollar cost averaging)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;下跌趨勢（股票）&lt;/td&gt;
-&lt;td&gt;downside&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;跌價風險（股票）&lt;/td&gt;
-&lt;td&gt;downside risk&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;人頭戶&lt;/td&gt;
-&lt;td&gt;dummy account&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;歐洲美元可轉換公司債&lt;/td&gt;
-&lt;td&gt;Eurodollar convertible bond (ECB)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;歐洲債券&lt;/td&gt;
-&lt;td&gt;Eurobond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;盈餘&lt;/td&gt;
-&lt;td&gt;earnings&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;每股盈餘&lt;/td&gt;
-&lt;td&gt;earnings per share (EPS)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;興櫃股票市場&lt;/td&gt;
-&lt;td&gt;emerging enterprise market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股本&lt;/td&gt;
-&lt;td&gt;equity capital&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股票型基金&lt;/td&gt;
-&lt;td&gt;equity fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;個股選擇權&lt;/td&gt;
-&lt;td&gt;equity option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;持股&lt;/td&gt;
-&lt;td&gt;equity stake&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股票連動債券&lt;/td&gt;
-&lt;td&gt;equity-linked notes (ELN)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;交易所（證券、期貨、貨幣、大宗物資）&lt;/td&gt;
-&lt;td&gt;exchange&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;指數股票型基金&lt;/td&gt;
-&lt;td&gt;exchange traded funds (ETFs)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;可交換公司債&lt;/td&gt;
-&lt;td&gt;exchangeable bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;除息&lt;/td&gt;
-&lt;td&gt;ex-dividend&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;除權&lt;/td&gt;
-&lt;td&gt;ex-right&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;可延展債券&lt;/td&gt;
-&lt;td&gt;extendible bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;面值（股票）&lt;/td&gt;
-&lt;td&gt;face value&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;金融期貨&lt;/td&gt;
-&lt;td&gt;financial futures&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;發行（股票）&lt;/td&gt;
-&lt;td&gt;float (stocks)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;基金經理人&lt;/td&gt;
-&lt;td&gt;fund manager&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;期貨交易市場&lt;/td&gt;
-&lt;td&gt;futures market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;期貨交易&lt;/td&gt;
-&lt;td&gt;futures trading&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;期貨&lt;/td&gt;
-&lt;td&gt;futures&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;全球存託憑證&lt;/td&gt;
-&lt;td&gt;global depositary receipts (GDR)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;美國芝加哥電子期貨交易系統&lt;/td&gt;
-&lt;td&gt;GLOBEX&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;公債定期利息收入&lt;/td&gt;
-&lt;td&gt;government bond coupon income&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;香港創業版&lt;/td&gt;
-&lt;td&gt;Growth Enterprise Market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;成長基金&lt;/td&gt;
-&lt;td&gt;growth fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;對沖&lt;/td&gt;
-&lt;td&gt;hedge&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;避險性基金&lt;/td&gt;
-&lt;td&gt;hedge fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;香港恆生指數&lt;/td&gt;
-&lt;td&gt;Hang Seng Index&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;（股市）羊群效應&lt;/td&gt;
-&lt;td&gt;herd instinct&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;高孳息債券&lt;/td&gt;
-&lt;td&gt;high-yield bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;投機股&lt;/td&gt;
-&lt;td&gt;highflyer (highflier)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;指數型基金&lt;/td&gt;
-&lt;td&gt;index fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;承銷股票上市&lt;/td&gt;
-&lt;td&gt;initial public offering (IPO)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;內線消息&lt;/td&gt;
-&lt;td&gt;inside information&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;網路券商&lt;/td&gt;
-&lt;td&gt;Internet brokerage&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;當日沖銷&lt;/td&gt;
-&lt;td&gt;intraday trading&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;投資銀行&lt;/td&gt;
-&lt;td&gt;investment bank&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;投資融資制度&lt;/td&gt;
-&lt;td&gt;investment financing system&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;投資組合&lt;/td&gt;
-&lt;td&gt;investment portfolio&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;發行股本&lt;/td&gt;
-&lt;td&gt;issued capital&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;垃圾債券&lt;/td&gt;
-&lt;td&gt;junk bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;槓桿比&lt;/td&gt;
-&lt;td&gt;leverage ratio&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;槓桿式併購（企業）&lt;/td&gt;
-&lt;td&gt;leveraged buyout&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;流動比率&lt;/td&gt;
-&lt;td&gt;liquidity ratio&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;上市股票&lt;/td&gt;
-&lt;td&gt;listed stock&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;信用交易最低保證金&lt;/td&gt;
-&lt;td&gt;maintenance margin&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;融資追繳&lt;/td&gt;
-&lt;td&gt;margin call&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;融資&lt;/td&gt;
-&lt;td&gt;margin trading (purchase on margin)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;市值&lt;/td&gt;
-&lt;td&gt;market capitalization&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;市場情報&lt;/td&gt;
-&lt;td&gt;market intelligence&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股市上揚&lt;/td&gt;
-&lt;td&gt;market rally&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;短線進出（股市）&lt;/td&gt;
-&lt;td&gt;market timing&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;摩根史丹利國際指數&lt;/td&gt;
-&lt;td&gt;Morgan Stanley Capital International Indexes&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;摩根台股指數期貨&lt;/td&gt;
-&lt;td&gt;MSCI Taiwan Index Futures&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;摩根台股指數選擇權&lt;/td&gt;
-&lt;td&gt;MSCI Taiwan Index Options&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;共同基金&lt;/td&gt;
-&lt;td&gt;mutual fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;基金淨值&lt;/td&gt;
-&lt;td&gt;net assets value (NAV)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;淨利&lt;/td&gt;
-&lt;td&gt;net income&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;淨利&lt;/td&gt;
-&lt;td&gt;net profit&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;淨值&lt;/td&gt;
-&lt;td&gt;net worth&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;人頭戶&lt;/td&gt;
-&lt;td&gt;nominee account&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;業外支出&lt;/td&gt;
-&lt;td&gt;non-core expense&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;業外收益&lt;/td&gt;
-&lt;td&gt;non-operating income&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;零股&lt;/td&gt;
-&lt;td&gt;odd lot&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;未平倉期貨&lt;/td&gt;
-&lt;td&gt;open interest&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;未平倉部位&lt;/td&gt;
-&lt;td&gt;open position&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;開放式基金&lt;/td&gt;
-&lt;td&gt;open-end fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;選擇權&lt;/td&gt;
-&lt;td&gt;option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;外部董事&lt;/td&gt;
-&lt;td&gt;outside board director&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;店頭市場&lt;/td&gt;
-&lt;td&gt;over-the-counter market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;店頭交易&lt;/td&gt;
-&lt;td&gt;over-the-counter transaction&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;加碼（股市）&lt;/td&gt;
-&lt;td&gt;overweight&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;帳面盈餘（損失）&lt;/td&gt;
-&lt;td&gt;paper profits (loss)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;面值（股票）&lt;/td&gt;
-&lt;td&gt;par value&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;退休基金&lt;/td&gt;
-&lt;td&gt;pension fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;投資公司&lt;/td&gt;
-&lt;td&gt;portfolio company&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;有價證券投資&lt;/td&gt;
-&lt;td&gt;portfolio investment&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;有價證券的財產&lt;/td&gt;
-&lt;td&gt;portfolio&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;溢價（股票）&lt;/td&gt;
-&lt;td&gt;premium price&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;特別股&lt;/td&gt;
-&lt;td&gt;preferred shares&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;以價格套利&lt;/td&gt;
-&lt;td&gt;price arbitrage&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;價格發現&lt;/td&gt;
-&lt;td&gt;price discovery&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;本益比&lt;/td&gt;
-&lt;td&gt;price-earnings (PE) ratio&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;初級市場&lt;/td&gt;
-&lt;td&gt;primary market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;第一順位債券&lt;/td&gt;
-&lt;td&gt;primary-lien bonds&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;未上市公司&lt;/td&gt;
-&lt;td&gt;private company&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;未上市股票&lt;/td&gt;
-&lt;td&gt;private equity&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;私募股票基金&lt;/td&gt;
-&lt;td&gt;private equity fund&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;採購經理人指數&lt;/td&gt;
-&lt;td&gt;procurement management index&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;招股說明書&lt;/td&gt;
-&lt;td&gt;prospectus&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;委託書&lt;/td&gt;
-&lt;td&gt;proxy&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;公司營運說明書&lt;/td&gt;
-&lt;td&gt;proxy statement&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;上市（櫃）公司&lt;/td&gt;
-&lt;td&gt;public company&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;公開發行&lt;/td&gt;
-&lt;td&gt;public offering&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;賣出選擇權（股票）&lt;/td&gt;
-&lt;td&gt;put&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;放空選擇權&lt;/td&gt;
-&lt;td&gt;put option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;放空認證權證&lt;/td&gt;
-&lt;td&gt;put warrant&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;合格國外投資法人&lt;/td&gt;
-&lt;td&gt;qualified foreign institutional investor (QFII)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;緘默期&lt;/td&gt;
-&lt;td&gt;quiet period&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股市大漲&lt;/td&gt;
-&lt;td&gt;rally&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;資本結構調整&lt;/td&gt;
-&lt;td&gt;recapitalization&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;贖回&lt;/td&gt;
-&lt;td&gt;redeem&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;贖回&lt;/td&gt;
-&lt;td&gt;redemption&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;不動產投資信託&lt;/td&gt;
-&lt;td&gt;REIT (real estate investment trust)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;再買回協議（債券、票券）&lt;/td&gt;
-&lt;td&gt;repurchase agreement (repo)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;限制權益股票制&lt;/td&gt;
-&lt;td&gt;restricted stock&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;保留盈餘&lt;/td&gt;
-&lt;td&gt;retained earnings&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股東權益報酬率&lt;/td&gt;
-&lt;td&gt;return on equity (ROE)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;債券附賣回交易&lt;/td&gt;
-&lt;td&gt;reverse repurchase agreement (RS)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;循環包銷融通&lt;/td&gt;
-&lt;td&gt;revolving underwriting facility (RUF)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;法人說明會&lt;/td&gt;
-&lt;td&gt;roadshow&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;次級市場&lt;/td&gt;
-&lt;td&gt;secondary market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;有擔保債券&lt;/td&gt;
-&lt;td&gt;secured bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券公司&lt;/td&gt;
-&lt;td&gt;securities houses&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券市場&lt;/td&gt;
-&lt;td&gt;securities market&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券交易稅&lt;/td&gt;
-&lt;td&gt;securities transaction tax&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券承銷&lt;/td&gt;
-&lt;td&gt;securities underwriting&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;證券&lt;/td&gt;
-&lt;td&gt;securities&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;大賣股票&lt;/td&gt;
-&lt;td&gt;sell off&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;認股&lt;/td&gt;
-&lt;td&gt;share subscription&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;空頭部位&lt;/td&gt;
-&lt;td&gt;short position&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;融券（賣空）&lt;/td&gt;
-&lt;td&gt;short sale&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;單一股票認購權證&lt;/td&gt;
-&lt;td&gt;single-stock warrant&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;主權信用評等&lt;/td&gt;
-&lt;td&gt;sovereign credit rating&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股票股利&lt;/td&gt;
-&lt;td&gt;stock dividend&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股票指數期貨&lt;/td&gt;
-&lt;td&gt;stock index futures&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股市崩盤&lt;/td&gt;
-&lt;td&gt;stock market crash&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;股票選擇權&lt;/td&gt;
-&lt;td&gt;stock option&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;運動型債券&lt;/td&gt;
-&lt;td&gt;structured note&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;次級證券&lt;/td&gt;
-&lt;td&gt;subordinate securities&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;居次債權證券&lt;/td&gt;
-&lt;td&gt;subordinated bonds&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;認購價&lt;/td&gt;
-&lt;td&gt;subscription price&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;有特別投票權的持股&lt;/td&gt;
-&lt;td&gt;supervoting share&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;台灣存託憑證&lt;/td&gt;
-&lt;td&gt;Taiwan depositary receipts (TDR)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;科技股&lt;/td&gt;
-&lt;td&gt;technology stock&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;套牢（股票）&lt;/td&gt;
-&lt;td&gt;tie up&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;國庫券&lt;/td&gt;
-&lt;td&gt;treasury bill&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;庫藏股&lt;/td&gt;
-&lt;td&gt;treasury stock&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;減碼（股市）&lt;/td&gt;
-&lt;td&gt;underweight&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;承銷&lt;/td&gt;
-&lt;td&gt;underwrite&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;無擔保債券&lt;/td&gt;
-&lt;td&gt;unsecured bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;上升趨勢（股價）&lt;/td&gt;
-&lt;td&gt;upside&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;上漲（股價）&lt;/td&gt;
-&lt;td&gt;upswing&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;多殺多（股市）&lt;/td&gt;
-&lt;td&gt;upward crash&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;美國國庫股&lt;/td&gt;
-&lt;td&gt;U.S. Treasurys&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;認購權證&lt;/td&gt;
-&lt;td&gt;warrant&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;加權指數&lt;/td&gt;
-&lt;td&gt;weighted index&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;調低帳面價值&lt;/td&gt;
-&lt;td&gt;write-down&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;沖銷&lt;/td&gt;
-&lt;td&gt;write-off&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;賣選擇權者&lt;/td&gt;
-&lt;td&gt;writer&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;零息債券&lt;/td&gt;
-&lt;td&gt;zero-coupon bond&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tw.blog.voicetube.com/archives/56521/%E3%80%90%E8%B2%A1%E7%B6%93%E8%8B%B1%E6%96%87%E3%80%9110-%E5%88%86%E9%90%98%E6%95%99%E4%BD%A0%E5%9F%BA%E6%9C%AC%E5%96%AE%E5%AD%97%EF%BC%8C%E9%82%84%E8%AE%93%E4%BD%A0%E9%81%B8%E8%82%A1-level/&#34;&gt;【財經英文】10 分鐘教你基本單字，還讓你選股 level up !!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://agapanthus.pixnet.net/blog/post/22678969&#34;&gt;[英文] 證券相關用語 @ 印心耕讀 :: 痞客邦 ::&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Reference: API</title>
-      <link>https://stock-for-newbie.kejyun.com/reference/resource/api/</link>
-      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/reference/resource/api/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;api-資源&#34;&gt;API 資源&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futunn.com/hk/download/OpenAPI&#34;&gt;富途牛牛 FUTU Open API&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Reference: 參考資料</title>
-      <link>https://stock-for-newbie.kejyun.com/reference/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/reference/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Reference: 券商</title>
-      <link>https://stock-for-newbie.kejyun.com/reference/brokerage/</link>
-      <pubDate>Wed, 14 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/reference/brokerage/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Basic: 資源</title>
-      <link>https://stock-for-newbie.kejyun.com/basic/resource/</link>
-      <pubDate>Mon, 17 May 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/basic/resource/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Question: 常見問題</title>
-      <link>https://stock-for-newbie.kejyun.com/question/</link>
-      <pubDate>Sun, 25 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://stock-for-newbie.kejyun.com/question/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     

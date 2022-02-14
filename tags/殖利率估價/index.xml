@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 殖利率估價</title>
+    <link>https://stock-for-newbie.kejyun.com/tags/%E6%AE%96%E5%88%A9%E7%8E%87%E4%BC%B0%E5%83%B9/</link>
+    <description>Recent content in 殖利率估價 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:11:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/tags/%E6%AE%96%E5%88%A9%E7%8E%87%E4%BC%B0%E5%83%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Advanced: 殖利率估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/dividends/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/dividends/</guid>
+      <description>
+        
+        
+        &lt;p&gt;適合股息股，有穩定市場及配息的公司&lt;/p&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;h3 id=&#34;確認個股每年配息狀況相對高低點&#34;&gt;確認個股每年配息狀況相對高低點&lt;/h3&gt;
+&lt;p&gt;到 Seeking Alpha 找你要找的標的並點選 &lt;code&gt;Dividends (配息)&lt;/code&gt;，再點選 &lt;code&gt;Dividend Yield (股息率)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-dividends-1.png&#34; alt=&#34;殖利率估價&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在下方確認近幾年的股息殖利率狀況，看有沒有達到自己預期的股息殖利率低標以上，&lt;/p&gt;
+&lt;p&gt;假如預期殖利率是 7%，那可以劃出一條 7% 殖利率的低標線，當殖利率高於 7% 時表示該年股價相對較低，是買入好時機&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;殖利率 = 股息 / 股價&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;在同樣配息狀況下&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;股價高 =&amp;gt; 殖利率低&lt;/li&gt;
+&lt;li&gt;股價低 =&amp;gt; 殖利率高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-dividends-2.png&#34; alt=&#34;殖利率估價&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://seekingalpha.com/&#34;&gt;Seeking Alpha | Stock Market Analysis &amp;amp; Tools for Investors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,285 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 技術分析</title>
+    <link>https://stock-for-newbie.kejyun.com/analysis/technical/</link>
+    <description>Recent content in 技術分析 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:03:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/analysis/technical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Analysis: 本益比河流圖</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/technical/price-to-earning-ratio-river/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/technical/price-to-earning-ratio-river/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;images/price-to-earning-ratio-river-0.png&#34; alt=&#34;本益比河流圖&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用時機&#34;&gt;使用時機&lt;/h2&gt;
+&lt;p&gt;如果企業的獲利穩定，則投資人常會發現股價固定在一定的本益比之間漲跌。利用本益比河流圖，投資人可以看出每股盈餘的成長趨勢，同時透過歷史PE倍數數據區間，股價是否過高過低。&lt;/p&gt;
+&lt;p&gt;如果股價來到本益比河流圖越下方，代表股價來到一段時間內的本益比低點，潛在報酬率較高&lt;/p&gt;
+&lt;p&gt;如果股價來到本益比河流圖越上方，代表股價來到一段時間內的本益比高點，潛在報酬率較低。&lt;/p&gt;
+&lt;h3 id=&#34;適合的股票&#34;&gt;適合的股票&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;適合成長、獲利穩定的股票&lt;/li&gt;
+&lt;li&gt;在產業間屬於領導型的股票&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;不適合的股票&#34;&gt;不適合的股票&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;不適用變動太大、獲利不穩定的股票&lt;/li&gt;
+&lt;li&gt;景氣循環股&lt;/li&gt;
+&lt;li&gt;快速成長股&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;本益比公式&#34;&gt;本益比公式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本益比 = 股價 ÷ EPS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;股價 = EPS × 本益比&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;本益比河流圖數值&#34;&gt;本益比河流圖數值&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;EPS × 預估最高本益比(歷史最高)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;EPS × 預估最低本益比(歷史最低)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;以台積電舉例&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/price-to-earning-ratio-river-1.png&#34; alt=&#34;本益比河流圖&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;屬性&lt;/th&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;近四季 EPS&lt;/td&gt;
+&lt;td&gt;22.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;最低本益比&lt;/td&gt;
+&lt;td&gt;14.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;最高本益比&lt;/td&gt;
+&lt;td&gt;31.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;22.1 x 31.8 = 702.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;22.1 x 14.7 = 324.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;將 &lt;code&gt;河流上緣股價&lt;/code&gt; 與 &lt;code&gt;河流下緣股價&lt;/code&gt; 切分成 6 份 5 個區塊，分別可以得到 &lt;code&gt;14.7&lt;/code&gt;、&lt;code&gt;18.1&lt;/code&gt;、&lt;code&gt;21.5&lt;/code&gt;、&lt;code&gt;25.0&lt;/code&gt;、&lt;code&gt;28.4&lt;/code&gt; 及 &lt;code&gt;31.8&lt;/code&gt; 倍的本益比&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;屬性&lt;/th&gt;
+&lt;th&gt;本益比倍數&lt;/th&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;31.8&lt;/td&gt;
+&lt;td&gt;22.1 x 31.8 = 702.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 2 層股價&lt;/td&gt;
+&lt;td&gt;28.4&lt;/td&gt;
+&lt;td&gt;22.1 x 28.4 = 627.64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 3 層股價&lt;/td&gt;
+&lt;td&gt;25.0&lt;/td&gt;
+&lt;td&gt;22.1 x 25.0 = 552.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 4 層股價&lt;/td&gt;
+&lt;td&gt;21.5&lt;/td&gt;
+&lt;td&gt;22.1 x 21.5 = 475.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 5 層股價&lt;/td&gt;
+&lt;td&gt;18.1&lt;/td&gt;
+&lt;td&gt;22.1 x 18.1 = 400.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;14.7&lt;/td&gt;
+&lt;td&gt;22.1 x 14.7 = 324.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;這樣就可以得到目前的本益比河流圖的數值了&lt;/p&gt;
+&lt;h2 id=&#34;投資策略&#34;&gt;投資策略&lt;/h2&gt;
+&lt;h3 id=&#34;1-最新股價位於河流圖區間狀況&#34;&gt;1. 最新股價位於河流圖區間狀況&lt;/h3&gt;
+&lt;p&gt;中間紅線為目前股價，當股價接近 &lt;code&gt;本益比河流下緣股價&lt;/code&gt; 的話，表示股價是便宜的，可以考慮買入&lt;/p&gt;
+&lt;p&gt;當股價接近 &lt;code&gt;本益比河流上緣股價&lt;/code&gt; 的話，表示股價是貴的，可以考慮賣出&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;屬性&lt;/th&gt;
+&lt;th&gt;狀況&lt;/th&gt;
+&lt;th&gt;本益比倍數&lt;/th&gt;
+&lt;th&gt;數值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流上緣股價&lt;/td&gt;
+&lt;td&gt;警告&lt;/td&gt;
+&lt;td&gt;31.8&lt;/td&gt;
+&lt;td&gt;22.1 x 31.8 = 702.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 2 層股價&lt;/td&gt;
+&lt;td&gt;高估&lt;/td&gt;
+&lt;td&gt;28.4&lt;/td&gt;
+&lt;td&gt;22.1 x 28.4 = 627.64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 3 層股價&lt;/td&gt;
+&lt;td&gt;觀望&lt;/td&gt;
+&lt;td&gt;25.0&lt;/td&gt;
+&lt;td&gt;22.1 x 25.0 = 552.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 4 層股價&lt;/td&gt;
+&lt;td&gt;合理&lt;/td&gt;
+&lt;td&gt;21.5&lt;/td&gt;
+&lt;td&gt;22.1 x 21.5 = 475.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流第 5 層股價&lt;/td&gt;
+&lt;td&gt;價值&lt;/td&gt;
+&lt;td&gt;18.1&lt;/td&gt;
+&lt;td&gt;22.1 x 18.1 = 400.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流下緣股價&lt;/td&gt;
+&lt;td&gt;低估&lt;/td&gt;
+&lt;td&gt;14.7&lt;/td&gt;
+&lt;td&gt;22.1 x 14.7 = 324.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;images/price-to-earning-ratio-river-0.png&#34; alt=&#34;本益比河流圖&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-河流是往上還是往下&#34;&gt;2. 河流是往上還是往下&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;河流狀況&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;河流圖上升&lt;/td&gt;
+&lt;td&gt;公司獲利成長&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流圖持平&lt;/td&gt;
+&lt;td&gt;公司獲利持穩或停滯&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;河流圖下降&lt;/td&gt;
+&lt;td&gt;公司獲利衰退&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rich01.com/price-to-earning-ratio-river/&#34;&gt;本益比河流圖怎麼看？如何用來選股？ - Mr.Market市場先生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: 本淨比河流圖</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/technical/what-is-price-book-ratio/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/technical/what-is-price-book-ratio/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;適合標的&#34;&gt;適合標的&lt;/h2&gt;
+&lt;h3 id=&#34;重資產公司&#34;&gt;重資產公司&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;需要投入大量資本的公司，週期性的行業&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;鋼鐵業&lt;/li&gt;
+&lt;li&gt;航空業&lt;/li&gt;
+&lt;li&gt;船運業&lt;/li&gt;
+&lt;li&gt;造船業&lt;/li&gt;
+&lt;li&gt;石油業&lt;/li&gt;
+&lt;li&gt;挖金銀銅鐵公司&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://earning.tw/what-is-price-book-ratio/&#34;&gt;股價淨值比介紹：股價淨值比河流圖怎麼用？讓你3分鐘找出合理價 - 懶人經濟學&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analysis: Yield On Cost 股息成本收益率</title>
+      <link>https://stock-for-newbie.kejyun.com/analysis/technical/yield-on-cost/</link>
+      <pubDate>Mon, 14 Feb 2022 00:03:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/analysis/technical/yield-on-cost/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+&lt;p&gt;Yield On Cost 股息成本收益率: 股息+股價的資本利得&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;適用目標&#34;&gt;適用目標&lt;/h2&gt;
+&lt;p&gt;防禦類型的公司，長期投資的人在經濟不景氣時會將資金停泊至此處，因為這些公司做的是人的基本需求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;電信業&lt;/li&gt;
+&lt;li&gt;食品業
+&lt;ul&gt;
+&lt;li&gt;麥當勞&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

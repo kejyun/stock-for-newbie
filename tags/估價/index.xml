@@ -1,0 +1,182 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>股票韭菜雞 – 估價</title>
+    <link>https://stock-for-newbie.kejyun.com/tags/%E4%BC%B0%E5%83%B9/</link>
+    <description>Recent content in 估價 on 股票韭菜雞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:11:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://stock-for-newbie.kejyun.com/tags/%E4%BC%B0%E5%83%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Advanced: 殖利率估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/dividends/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/dividends/</guid>
+      <description>
+        
+        
+        &lt;p&gt;適合股息股，有穩定市場及配息的公司&lt;/p&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;h3 id=&#34;確認個股每年配息狀況相對高低點&#34;&gt;確認個股每年配息狀況相對高低點&lt;/h3&gt;
+&lt;p&gt;到 Seeking Alpha 找你要找的標的並點選 &lt;code&gt;Dividends (配息)&lt;/code&gt;，再點選 &lt;code&gt;Dividend Yield (股息率)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-dividends-1.png&#34; alt=&#34;殖利率估價&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在下方確認近幾年的股息殖利率狀況，看有沒有達到自己預期的股息殖利率低標以上，&lt;/p&gt;
+&lt;p&gt;假如預期殖利率是 7%，那可以劃出一條 7% 殖利率的低標線，當殖利率高於 7% 時表示該年股價相對較低，是買入好時機&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;殖利率 = 股息 / 股價&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;在同樣配息狀況下&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;股價高 =&amp;gt; 殖利率低&lt;/li&gt;
+&lt;li&gt;股價低 =&amp;gt; 殖利率高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-dividends-2.png&#34; alt=&#34;殖利率估價&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://seekingalpha.com/&#34;&gt;Seeking Alpha | Stock Market Analysis &amp;amp; Tools for Investors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Advanced: 估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;護城河投資法&#34;&gt;護城河投資法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;尋找擁有護城河，能長期創造平均水準以上獲利的企業&lt;/li&gt;
+&lt;li&gt;耐心等，等待企業股價低於內在價值(估價)，再買進&lt;/li&gt;
+&lt;li&gt;持續持有股票(以年計算)，直到股價高估營運狀況轉差，或是找到更好的標的&lt;/li&gt;
+&lt;li&gt;好公司股價跌下來也不是要一次 All in，在低於合理價格時分批慢慢買&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;p&gt;估價目標是用來判斷企業內部價值，判斷現在股價是高估還是低估，在低估的時候買入&lt;/p&gt;
+&lt;h3 id=&#34;保守型投資人股息股&#34;&gt;保守型投資人：股息股&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;找高配息的股票或 etf&lt;/li&gt;
+&lt;li&gt;殖利率估價 (&lt;code&gt;殖利率 &amp;gt; 4%&lt;/code&gt; 或 &lt;code&gt;高於你的目標 % 數&lt;/code&gt; 買入)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;積極型投資人成長股&#34;&gt;積極型投資人：成長股&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;找業績、EPS 持續成長的公司、ETF&lt;/li&gt;
+&lt;li&gt;PEG 估價 (算出合理價，當 &lt;code&gt;股價 &amp;lt; 合理價&lt;/code&gt; 時買入)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=01Sxm3NFAJg&amp;amp;list=WL&#34;&gt;EP112 護城河投資 估價的藝術(卡爾先生)20220213 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Advanced: PEG 估價</title>
+      <link>https://stock-for-newbie.kejyun.com/advanced/valuation/peg/</link>
+      <pubDate>Mon, 14 Feb 2022 00:11:29 +0800</pubDate>
+      
+      <guid>https://stock-for-newbie.kejyun.com/advanced/valuation/peg/</guid>
+      <description>
+        
+        
+        &lt;p&gt;適合成長股的估價方式&lt;/p&gt;
+&lt;h2 id=&#34;估價方式&#34;&gt;估價方式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合理價格：EPS(近 12 個月) * EPS 年化成長率(取 EPS 平均 3、5、10 年最低值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;1-看個過去股財報&#34;&gt;1. 看個過去股財報&lt;/h3&gt;
+&lt;p&gt;到 &lt;a href=&#34;(https://www.morningstar.com/)&#34;&gt;Morningstar&lt;/a&gt; 找尋要分析的個股，在個股頁面點選 &lt;code&gt;Key Ratio / Full Key Ratio Data&lt;/code&gt; 可以看到近 10 幾年過去的財報&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-1.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-確認-epsearning-per-share-是成長的&#34;&gt;2. 確認 EPS(Earning Per Share) 是成長的&lt;/h3&gt;
+&lt;p&gt;看財報的 &lt;code&gt;Earnings Per Share (EPS)&lt;/code&gt; 確認是否是每年都是成長的，若是成長的才確認是成長股&lt;/p&gt;
+&lt;p&gt;確認過去 12 個 EPS 的 TTM 數字為 &lt;code&gt;13.77&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-2.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-檢視過去-3510-年的-eps-狀況&#34;&gt;3. 檢視過去 3、5、10 年的 EPS 狀況&lt;/h3&gt;
+&lt;p&gt;在 Key Ratios 區塊點選 &lt;code&gt;Growth&lt;/code&gt; 頁籤，在下方可以看到 &lt;code&gt;EPS %&lt;/code&gt; 表，可以看最新一年的 3、5、10 年的 EPS 狀況&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;年分&lt;/th&gt;
+&lt;th&gt;EPS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3 年&lt;/td&gt;
+&lt;td&gt;22.07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 年&lt;/td&gt;
+&lt;td&gt;31.59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10 年&lt;/td&gt;
+&lt;td&gt;41.43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;取 EPS 平均 3、5、10 年中的 &lt;code&gt;最低值&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4-評估價格是否合理&#34;&gt;4. 評估價格是否合理&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合理價格：EPS(近 12 個月) * EPS 年化成長率(取 EPS 平均 3、5、10 年最低值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;合理價格：&lt;code&gt;13.77&lt;/code&gt; * &lt;code&gt;22.07&lt;/code&gt; = &lt;code&gt;303.9&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;類型&lt;/th&gt;
+&lt;th&gt;價格&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;合理價格&lt;/td&gt;
+&lt;td&gt;303.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;目前價格 (2022-02-11)&lt;/td&gt;
+&lt;td&gt;219.55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-3.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;5-本益比河流圖確認&#34;&gt;5. 本益比河流圖確認&lt;/h3&gt;
+&lt;p&gt;到 &lt;a href=&#34;https://statementdog.com/&#34;&gt;財報狗&lt;/a&gt; 網站搜尋個股，看到個股的 &lt;code&gt;本益比河流圖&lt;/code&gt; (需登入)&lt;/p&gt;
+&lt;p&gt;中間紅線為目前股價，當股價接近 &lt;code&gt;本益比河流圖下面&lt;/code&gt; 的話，表示股價是便宜的，會考慮買股票&lt;/p&gt;
+&lt;p&gt;當股價接近 &lt;code&gt;本益比河流圖上面&lt;/code&gt; 的話，表示股價是貴的，會考慮賣股票&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/valuation-peg-4.png&#34; alt=&#34;PEG 估價&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;6-買入賣出策略&#34;&gt;6. 買入賣出策略&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;目前價格 &amp;lt; 合理價格：&lt;code&gt;價格過低，適合逢低購買&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;目前價格 &amp;gt; 合理價格：&lt;code&gt;價格過高，適合賣出持股&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以 &lt;code&gt;目前價格(219.55)&lt;/code&gt; 低於 &lt;code&gt;合理價格(303.9)&lt;/code&gt; ，以及 &lt;code&gt;本益比河流圖在低點&lt;/code&gt; 的話，是適合逢低購買的&lt;/p&gt;
+&lt;p&gt;但還是要考慮未來的前景狀況，因為這個評估狀況是基於過去的資料，要確定未來公司在市場上的競爭力及賺錢能力都能夠優於過去，那對未來的股價來說，目前價格才是低於合理價格&lt;/p&gt;
+&lt;p&gt;若未來公司的成長性及賺錢能力不如以前，那麼合理價格就會不斷的下修，所以還是要自行評估&lt;/p&gt;
+&lt;p&gt;看股價不要看絕對金額，不是 5 年前的 100 塊，而現在 200 就代表很貴，企業不斷成長，內在價值也會不斷成長&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=01Sxm3NFAJg&#34;&gt;EP112 護城河投資 估價的藝術(卡爾先生)20220213 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.morningstar.com/&#34;&gt;Morningstar | Empowering Investor Success&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://statementdog.com/&#34;&gt;財報狗-穩健的報酬，更悠閒的生活&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
